@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperwatch"
+version = "0.1.0"
+description = "Hyperwatch - A real-time alert system for HyperCore events"
+readme = "README.md"
+authors = [
+  { name = "Daniel Mordred", email = "danielmordred491@gmail.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = [
+  "requests>=2.26.0",
+  "websockets>=10.0",
+  "PyYAML>=5.4.1",
+  "python-dotenv>=0.19.0",
+  "aiohttp>=3.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=6.2.5",
+  "pytest-asyncio>=0.16.0",
+  "pre-commit>=2.15.0",
+]
+dashboard = [
+  "streamlit>=1.20",
+]
+
+[project.urls]
+Homepage = ""
+Issues = ""

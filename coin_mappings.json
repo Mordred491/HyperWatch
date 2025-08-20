@@ -1,0 +1,4879 @@
+{
+  "timestamp": "2025-08-20T01:40:35.645005",
+  "perp_map": {
+    "@0": {
+      "name": "BTC",
+      "index": 0
+    },
+    "@1": {
+      "name": "ETH",
+      "index": 1
+    },
+    "@2": {
+      "name": "ATOM",
+      "index": 2
+    },
+    "@3": {
+      "name": "MATIC",
+      "index": 3
+    },
+    "@4": {
+      "name": "DYDX",
+      "index": 4
+    },
+    "@5": {
+      "name": "SOL",
+      "index": 5
+    },
+    "@6": {
+      "name": "AVAX",
+      "index": 6
+    },
+    "@7": {
+      "name": "BNB",
+      "index": 7
+    },
+    "@8": {
+      "name": "APE",
+      "index": 8
+    },
+    "@9": {
+      "name": "OP",
+      "index": 9
+    },
+    "@10": {
+      "name": "LTC",
+      "index": 10
+    },
+    "@11": {
+      "name": "ARB",
+      "index": 11
+    },
+    "@12": {
+      "name": "DOGE",
+      "index": 12
+    },
+    "@13": {
+      "name": "INJ",
+      "index": 13
+    },
+    "@14": {
+      "name": "SUI",
+      "index": 14
+    },
+    "@15": {
+      "name": "kPEPE",
+      "index": 15
+    },
+    "@16": {
+      "name": "CRV",
+      "index": 16
+    },
+    "@17": {
+      "name": "LDO",
+      "index": 17
+    },
+    "@18": {
+      "name": "LINK",
+      "index": 18
+    },
+    "@19": {
+      "name": "STX",
+      "index": 19
+    },
+    "@20": {
+      "name": "RNDR",
+      "index": 20
+    },
+    "@21": {
+      "name": "CFX",
+      "index": 21
+    },
+    "@22": {
+      "name": "FTM",
+      "index": 22
+    },
+    "@23": {
+      "name": "GMX",
+      "index": 23
+    },
+    "@24": {
+      "name": "SNX",
+      "index": 24
+    },
+    "@25": {
+      "name": "XRP",
+      "index": 25
+    },
+    "@26": {
+      "name": "BCH",
+      "index": 26
+    },
+    "@27": {
+      "name": "APT",
+      "index": 27
+    },
+    "@28": {
+      "name": "AAVE",
+      "index": 28
+    },
+    "@29": {
+      "name": "COMP",
+      "index": 29
+    },
+    "@30": {
+      "name": "MKR",
+      "index": 30
+    },
+    "@31": {
+      "name": "WLD",
+      "index": 31
+    },
+    "@32": {
+      "name": "FXS",
+      "index": 32
+    },
+    "@33": {
+      "name": "HPOS",
+      "index": 33
+    },
+    "@34": {
+      "name": "RLB",
+      "index": 34
+    },
+    "@35": {
+      "name": "UNIBOT",
+      "index": 35
+    },
+    "@36": {
+      "name": "YGG",
+      "index": 36
+    },
+    "@37": {
+      "name": "TRX",
+      "index": 37
+    },
+    "@38": {
+      "name": "kSHIB",
+      "index": 38
+    },
+    "@39": {
+      "name": "UNI",
+      "index": 39
+    },
+    "@40": {
+      "name": "SEI",
+      "index": 40
+    },
+    "@41": {
+      "name": "RUNE",
+      "index": 41
+    },
+    "@42": {
+      "name": "OX",
+      "index": 42
+    },
+    "@43": {
+      "name": "FRIEND",
+      "index": 43
+    },
+    "@44": {
+      "name": "SHIA",
+      "index": 44
+    },
+    "@45": {
+      "name": "CYBER",
+      "index": 45
+    },
+    "@46": {
+      "name": "ZRO",
+      "index": 46
+    },
+    "@47": {
+      "name": "BLZ",
+      "index": 47
+    },
+    "@48": {
+      "name": "DOT",
+      "index": 48
+    },
+    "@49": {
+      "name": "BANANA",
+      "index": 49
+    },
+    "@50": {
+      "name": "TRB",
+      "index": 50
+    },
+    "@51": {
+      "name": "FTT",
+      "index": 51
+    },
+    "@52": {
+      "name": "LOOM",
+      "index": 52
+    },
+    "@53": {
+      "name": "OGN",
+      "index": 53
+    },
+    "@54": {
+      "name": "RDNT",
+      "index": 54
+    },
+    "@55": {
+      "name": "ARK",
+      "index": 55
+    },
+    "@56": {
+      "name": "BNT",
+      "index": 56
+    },
+    "@57": {
+      "name": "CANTO",
+      "index": 57
+    },
+    "@58": {
+      "name": "REQ",
+      "index": 58
+    },
+    "@59": {
+      "name": "BIGTIME",
+      "index": 59
+    },
+    "@60": {
+      "name": "KAS",
+      "index": 60
+    },
+    "@61": {
+      "name": "ORBS",
+      "index": 61
+    },
+    "@62": {
+      "name": "BLUR",
+      "index": 62
+    },
+    "@63": {
+      "name": "TIA",
+      "index": 63
+    },
+    "@64": {
+      "name": "BSV",
+      "index": 64
+    },
+    "@65": {
+      "name": "ADA",
+      "index": 65
+    },
+    "@66": {
+      "name": "TON",
+      "index": 66
+    },
+    "@67": {
+      "name": "MINA",
+      "index": 67
+    },
+    "@68": {
+      "name": "POLYX",
+      "index": 68
+    },
+    "@69": {
+      "name": "GAS",
+      "index": 69
+    },
+    "@70": {
+      "name": "PENDLE",
+      "index": 70
+    },
+    "@71": {
+      "name": "STG",
+      "index": 71
+    },
+    "@72": {
+      "name": "FET",
+      "index": 72
+    },
+    "@73": {
+      "name": "STRAX",
+      "index": 73
+    },
+    "@74": {
+      "name": "NEAR",
+      "index": 74
+    },
+    "@75": {
+      "name": "MEME",
+      "index": 75
+    },
+    "@76": {
+      "name": "ORDI",
+      "index": 76
+    },
+    "@77": {
+      "name": "BADGER",
+      "index": 77
+    },
+    "@78": {
+      "name": "NEO",
+      "index": 78
+    },
+    "@79": {
+      "name": "ZEN",
+      "index": 79
+    },
+    "@80": {
+      "name": "FIL",
+      "index": 80
+    },
+    "@81": {
+      "name": "PYTH",
+      "index": 81
+    },
+    "@82": {
+      "name": "SUSHI",
+      "index": 82
+    },
+    "@83": {
+      "name": "ILV",
+      "index": 83
+    },
+    "@84": {
+      "name": "IMX",
+      "index": 84
+    },
+    "@85": {
+      "name": "kBONK",
+      "index": 85
+    },
+    "@86": {
+      "name": "GMT",
+      "index": 86
+    },
+    "@87": {
+      "name": "SUPER",
+      "index": 87
+    },
+    "@88": {
+      "name": "USTC",
+      "index": 88
+    },
+    "@89": {
+      "name": "NFTI",
+      "index": 89
+    },
+    "@90": {
+      "name": "JUP",
+      "index": 90
+    },
+    "@91": {
+      "name": "kLUNC",
+      "index": 91
+    },
+    "@92": {
+      "name": "RSR",
+      "index": 92
+    },
+    "@93": {
+      "name": "GALA",
+      "index": 93
+    },
+    "@94": {
+      "name": "JTO",
+      "index": 94
+    },
+    "@95": {
+      "name": "NTRN",
+      "index": 95
+    },
+    "@96": {
+      "name": "ACE",
+      "index": 96
+    },
+    "@97": {
+      "name": "MAV",
+      "index": 97
+    },
+    "@98": {
+      "name": "WIF",
+      "index": 98
+    },
+    "@99": {
+      "name": "CAKE",
+      "index": 99
+    },
+    "@100": {
+      "name": "PEOPLE",
+      "index": 100
+    },
+    "@101": {
+      "name": "ENS",
+      "index": 101
+    },
+    "@102": {
+      "name": "ETC",
+      "index": 102
+    },
+    "@103": {
+      "name": "XAI",
+      "index": 103
+    },
+    "@104": {
+      "name": "MANTA",
+      "index": 104
+    },
+    "@105": {
+      "name": "UMA",
+      "index": 105
+    },
+    "@106": {
+      "name": "ONDO",
+      "index": 106
+    },
+    "@107": {
+      "name": "ALT",
+      "index": 107
+    },
+    "@108": {
+      "name": "ZETA",
+      "index": 108
+    },
+    "@109": {
+      "name": "DYM",
+      "index": 109
+    },
+    "@110": {
+      "name": "MAVIA",
+      "index": 110
+    },
+    "@111": {
+      "name": "W",
+      "index": 111
+    },
+    "@112": {
+      "name": "PANDORA",
+      "index": 112
+    },
+    "@113": {
+      "name": "STRK",
+      "index": 113
+    },
+    "@114": {
+      "name": "PIXEL",
+      "index": 114
+    },
+    "@115": {
+      "name": "AI",
+      "index": 115
+    },
+    "@116": {
+      "name": "TAO",
+      "index": 116
+    },
+    "@117": {
+      "name": "AR",
+      "index": 117
+    },
+    "@118": {
+      "name": "MYRO",
+      "index": 118
+    },
+    "@119": {
+      "name": "kFLOKI",
+      "index": 119
+    },
+    "@120": {
+      "name": "BOME",
+      "index": 120
+    },
+    "@121": {
+      "name": "ETHFI",
+      "index": 121
+    },
+    "@122": {
+      "name": "ENA",
+      "index": 122
+    },
+    "@123": {
+      "name": "MNT",
+      "index": 123
+    },
+    "@124": {
+      "name": "TNSR",
+      "index": 124
+    },
+    "@125": {
+      "name": "SAGA",
+      "index": 125
+    },
+    "@126": {
+      "name": "MERL",
+      "index": 126
+    },
+    "@127": {
+      "name": "HBAR",
+      "index": 127
+    },
+    "@128": {
+      "name": "POPCAT",
+      "index": 128
+    },
+    "@129": {
+      "name": "OMNI",
+      "index": 129
+    },
+    "@130": {
+      "name": "EIGEN",
+      "index": 130
+    },
+    "@131": {
+      "name": "REZ",
+      "index": 131
+    },
+    "@132": {
+      "name": "NOT",
+      "index": 132
+    },
+    "@133": {
+      "name": "TURBO",
+      "index": 133
+    },
+    "@134": {
+      "name": "BRETT",
+      "index": 134
+    },
+    "@135": {
+      "name": "IO",
+      "index": 135
+    },
+    "@136": {
+      "name": "ZK",
+      "index": 136
+    },
+    "@137": {
+      "name": "BLAST",
+      "index": 137
+    },
+    "@138": {
+      "name": "LISTA",
+      "index": 138
+    },
+    "@139": {
+      "name": "MEW",
+      "index": 139
+    },
+    "@140": {
+      "name": "RENDER",
+      "index": 140
+    },
+    "@141": {
+      "name": "kDOGS",
+      "index": 141
+    },
+    "@142": {
+      "name": "POL",
+      "index": 142
+    },
+    "@143": {
+      "name": "CATI",
+      "index": 143
+    },
+    "@144": {
+      "name": "CELO",
+      "index": 144
+    },
+    "@145": {
+      "name": "HMSTR",
+      "index": 145
+    },
+    "@146": {
+      "name": "SCR",
+      "index": 146
+    },
+    "@147": {
+      "name": "NEIROETH",
+      "index": 147
+    },
+    "@148": {
+      "name": "kNEIRO",
+      "index": 148
+    },
+    "@149": {
+      "name": "GOAT",
+      "index": 149
+    },
+    "@150": {
+      "name": "MOODENG",
+      "index": 150
+    },
+    "@151": {
+      "name": "GRASS",
+      "index": 151
+    },
+    "@152": {
+      "name": "PURR",
+      "index": 152
+    },
+    "@153": {
+      "name": "PNUT",
+      "index": 153
+    },
+    "@154": {
+      "name": "XLM",
+      "index": 154
+    },
+    "@155": {
+      "name": "CHILLGUY",
+      "index": 155
+    },
+    "@156": {
+      "name": "SAND",
+      "index": 156
+    },
+    "@157": {
+      "name": "IOTA",
+      "index": 157
+    },
+    "@158": {
+      "name": "ALGO",
+      "index": 158
+    },
+    "@159": {
+      "name": "HYPE",
+      "index": 159
+    },
+    "@160": {
+      "name": "ME",
+      "index": 160
+    },
+    "@161": {
+      "name": "MOVE",
+      "index": 161
+    },
+    "@162": {
+      "name": "VIRTUAL",
+      "index": 162
+    },
+    "@163": {
+      "name": "PENGU",
+      "index": 163
+    },
+    "@164": {
+      "name": "USUAL",
+      "index": 164
+    },
+    "@165": {
+      "name": "FARTCOIN",
+      "index": 165
+    },
+    "@166": {
+      "name": "AI16Z",
+      "index": 166
+    },
+    "@167": {
+      "name": "AIXBT",
+      "index": 167
+    },
+    "@168": {
+      "name": "ZEREBRO",
+      "index": 168
+    },
+    "@169": {
+      "name": "BIO",
+      "index": 169
+    },
+    "@170": {
+      "name": "GRIFFAIN",
+      "index": 170
+    },
+    "@171": {
+      "name": "SPX",
+      "index": 171
+    },
+    "@172": {
+      "name": "S",
+      "index": 172
+    },
+    "@173": {
+      "name": "MORPHO",
+      "index": 173
+    },
+    "@174": {
+      "name": "TRUMP",
+      "index": 174
+    },
+    "@175": {
+      "name": "MELANIA",
+      "index": 175
+    },
+    "@176": {
+      "name": "ANIME",
+      "index": 176
+    },
+    "@177": {
+      "name": "VINE",
+      "index": 177
+    },
+    "@178": {
+      "name": "VVV",
+      "index": 178
+    },
+    "@179": {
+      "name": "JELLY",
+      "index": 179
+    },
+    "@180": {
+      "name": "BERA",
+      "index": 180
+    },
+    "@181": {
+      "name": "TST",
+      "index": 181
+    },
+    "@182": {
+      "name": "LAYER",
+      "index": 182
+    },
+    "@183": {
+      "name": "IP",
+      "index": 183
+    },
+    "@184": {
+      "name": "OM",
+      "index": 184
+    },
+    "@185": {
+      "name": "KAITO",
+      "index": 185
+    },
+    "@186": {
+      "name": "NIL",
+      "index": 186
+    },
+    "@187": {
+      "name": "PAXG",
+      "index": 187
+    },
+    "@188": {
+      "name": "PROMPT",
+      "index": 188
+    },
+    "@189": {
+      "name": "BABY",
+      "index": 189
+    },
+    "@190": {
+      "name": "WCT",
+      "index": 190
+    },
+    "@191": {
+      "name": "HYPER",
+      "index": 191
+    },
+    "@192": {
+      "name": "ZORA",
+      "index": 192
+    },
+    "@193": {
+      "name": "INIT",
+      "index": 193
+    },
+    "@194": {
+      "name": "DOOD",
+      "index": 194
+    },
+    "@195": {
+      "name": "LAUNCHCOIN",
+      "index": 195
+    },
+    "@196": {
+      "name": "NXPC",
+      "index": 196
+    },
+    "@197": {
+      "name": "SOPH",
+      "index": 197
+    },
+    "@198": {
+      "name": "RESOLV",
+      "index": 198
+    },
+    "@199": {
+      "name": "SYRUP",
+      "index": 199
+    },
+    "@200": {
+      "name": "PUMP",
+      "index": 200
+    },
+    "@201": {
+      "name": "PROVE",
+      "index": 201
+    }
+  },
+  "spot_map": {
+    "@10000": {
+      "name": "PURR/USDC",
+      "index": 0
+    }
+  },
+  "name_to_key": {
+    "BTC": "@0",
+    "ETH": "@1",
+    "ATOM": "@2",
+    "MATIC": "@3",
+    "DYDX": "@4",
+    "SOL": "@5",
+    "AVAX": "@6",
+    "BNB": "@7",
+    "APE": "@8",
+    "OP": "@9",
+    "LTC": "@10",
+    "ARB": "@11",
+    "DOGE": "@12",
+    "INJ": "@13",
+    "SUI": "@14",
+    "KPEPE": "@15",
+    "CRV": "@16",
+    "LDO": "@17",
+    "LINK": "@18",
+    "STX": "@19",
+    "RNDR": "@20",
+    "CFX": "@21",
+    "FTM": "@22",
+    "GMX": "@23",
+    "SNX": "@24",
+    "XRP": "@25",
+    "BCH": "@26",
+    "APT": "@27",
+    "AAVE": "@28",
+    "COMP": "@29",
+    "MKR": "@30",
+    "WLD": "@31",
+    "FXS": "@32",
+    "HPOS": "@33",
+    "RLB": "@34",
+    "UNIBOT": "@35",
+    "YGG": "@36",
+    "TRX": "@37",
+    "KSHIB": "@38",
+    "UNI": "@39",
+    "SEI": "@40",
+    "RUNE": "@41",
+    "OX": "@42",
+    "FRIEND": "@43",
+    "SHIA": "@44",
+    "CYBER": "@45",
+    "ZRO": "@46",
+    "BLZ": "@47",
+    "DOT": "@48",
+    "BANANA": "@49",
+    "TRB": "@50",
+    "FTT": "@51",
+    "LOOM": "@52",
+    "OGN": "@53",
+    "RDNT": "@54",
+    "ARK": "@55",
+    "BNT": "@56",
+    "CANTO": "@57",
+    "REQ": "@58",
+    "BIGTIME": "@59",
+    "KAS": "@60",
+    "ORBS": "@61",
+    "BLUR": "@62",
+    "TIA": "@63",
+    "BSV": "@64",
+    "ADA": "@65",
+    "TON": "@66",
+    "MINA": "@67",
+    "POLYX": "@68",
+    "GAS": "@69",
+    "PENDLE": "@70",
+    "STG": "@71",
+    "FET": "@72",
+    "STRAX": "@73",
+    "NEAR": "@74",
+    "MEME": "@75",
+    "ORDI": "@76",
+    "BADGER": "@77",
+    "NEO": "@78",
+    "ZEN": "@79",
+    "FIL": "@80",
+    "PYTH": "@81",
+    "SUSHI": "@82",
+    "ILV": "@83",
+    "IMX": "@84",
+    "KBONK": "@85",
+    "GMT": "@86",
+    "SUPER": "@87",
+    "USTC": "@88",
+    "NFTI": "@89",
+    "JUP": "@90",
+    "KLUNC": "@91",
+    "RSR": "@92",
+    "GALA": "@93",
+    "JTO": "@94",
+    "NTRN": "@95",
+    "ACE": "@96",
+    "MAV": "@97",
+    "WIF": "@98",
+    "CAKE": "@99",
+    "PEOPLE": "@100",
+    "ENS": "@101",
+    "ETC": "@102",
+    "XAI": "@103",
+    "MANTA": "@104",
+    "UMA": "@105",
+    "ONDO": "@106",
+    "ALT": "@107",
+    "ZETA": "@108",
+    "DYM": "@109",
+    "MAVIA": "@110",
+    "W": "@111",
+    "PANDORA": "@112",
+    "STRK": "@113",
+    "PIXEL": "@114",
+    "AI": "@115",
+    "TAO": "@116",
+    "AR": "@117",
+    "MYRO": "@118",
+    "KFLOKI": "@119",
+    "BOME": "@120",
+    "ETHFI": "@121",
+    "ENA": "@122",
+    "MNT": "@123",
+    "TNSR": "@124",
+    "SAGA": "@125",
+    "MERL": "@126",
+    "HBAR": "@127",
+    "POPCAT": "@128",
+    "OMNI": "@129",
+    "EIGEN": "@130",
+    "REZ": "@131",
+    "NOT": "@132",
+    "TURBO": "@133",
+    "BRETT": "@134",
+    "IO": "@135",
+    "ZK": "@136",
+    "BLAST": "@137",
+    "LISTA": "@138",
+    "MEW": "@139",
+    "RENDER": "@140",
+    "KDOGS": "@141",
+    "POL": "@142",
+    "CATI": "@143",
+    "CELO": "@144",
+    "HMSTR": "@145",
+    "SCR": "@146",
+    "NEIROETH": "@147",
+    "KNEIRO": "@148",
+    "GOAT": "@149",
+    "MOODENG": "@150",
+    "GRASS": "@151",
+    "PURR": "@152",
+    "PNUT": "@153",
+    "XLM": "@154",
+    "CHILLGUY": "@155",
+    "SAND": "@156",
+    "IOTA": "@157",
+    "ALGO": "@158",
+    "HYPE": "@159",
+    "ME": "@160",
+    "MOVE": "@161",
+    "VIRTUAL": "@162",
+    "PENGU": "@163",
+    "USUAL": "@164",
+    "FARTCOIN": "@165",
+    "AI16Z": "@166",
+    "AIXBT": "@167",
+    "ZEREBRO": "@168",
+    "BIO": "@169",
+    "GRIFFAIN": "@170",
+    "SPX": "@171",
+    "S": "@172",
+    "MORPHO": "@173",
+    "TRUMP": "@174",
+    "MELANIA": "@175",
+    "ANIME": "@176",
+    "VINE": "@177",
+    "VVV": "@178",
+    "JELLY": "@179",
+    "BERA": "@180",
+    "TST": "@181",
+    "LAYER": "@182",
+    "IP": "@183",
+    "OM": "@184",
+    "KAITO": "@185",
+    "NIL": "@186",
+    "PAXG": "@187",
+    "PROMPT": "@188",
+    "BABY": "@189",
+    "WCT": "@190",
+    "HYPER": "@191",
+    "ZORA": "@192",
+    "INIT": "@193",
+    "DOOD": "@194",
+    "LAUNCHCOIN": "@195",
+    "NXPC": "@196",
+    "SOPH": "@197",
+    "RESOLV": "@198",
+    "SYRUP": "@199",
+    "PUMP": "@200",
+    "PROVE": "@201",
+    "PURR/USDC": "@10000"
+  },
+  "index_to_name": {
+    "@0": "BTC",
+    "@1": "ETH",
+    "@2": "ATOM",
+    "@3": "MATIC",
+    "@4": "DYDX",
+    "@5": "SOL",
+    "@6": "AVAX",
+    "@7": "BNB",
+    "@8": "APE",
+    "@9": "OP",
+    "@10": "LTC",
+    "@11": "ARB",
+    "@12": "DOGE",
+    "@13": "INJ",
+    "@14": "SUI",
+    "@15": "kPEPE",
+    "@16": "CRV",
+    "@17": "LDO",
+    "@18": "LINK",
+    "@19": "STX",
+    "@20": "RNDR",
+    "@21": "CFX",
+    "@22": "FTM",
+    "@23": "GMX",
+    "@24": "SNX",
+    "@25": "XRP",
+    "@26": "BCH",
+    "@27": "APT",
+    "@28": "AAVE",
+    "@29": "COMP",
+    "@30": "MKR",
+    "@31": "WLD",
+    "@32": "FXS",
+    "@33": "HPOS",
+    "@34": "RLB",
+    "@35": "UNIBOT",
+    "@36": "YGG",
+    "@37": "TRX",
+    "@38": "kSHIB",
+    "@39": "UNI",
+    "@40": "SEI",
+    "@41": "RUNE",
+    "@42": "OX",
+    "@43": "FRIEND",
+    "@44": "SHIA",
+    "@45": "CYBER",
+    "@46": "ZRO",
+    "@47": "BLZ",
+    "@48": "DOT",
+    "@49": "BANANA",
+    "@50": "TRB",
+    "@51": "FTT",
+    "@52": "LOOM",
+    "@53": "OGN",
+    "@54": "RDNT",
+    "@55": "ARK",
+    "@56": "BNT",
+    "@57": "CANTO",
+    "@58": "REQ",
+    "@59": "BIGTIME",
+    "@60": "KAS",
+    "@61": "ORBS",
+    "@62": "BLUR",
+    "@63": "TIA",
+    "@64": "BSV",
+    "@65": "ADA",
+    "@66": "TON",
+    "@67": "MINA",
+    "@68": "POLYX",
+    "@69": "GAS",
+    "@70": "PENDLE",
+    "@71": "STG",
+    "@72": "FET",
+    "@73": "STRAX",
+    "@74": "NEAR",
+    "@75": "MEME",
+    "@76": "ORDI",
+    "@77": "BADGER",
+    "@78": "NEO",
+    "@79": "ZEN",
+    "@80": "FIL",
+    "@81": "PYTH",
+    "@82": "SUSHI",
+    "@83": "ILV",
+    "@84": "IMX",
+    "@85": "kBONK",
+    "@86": "GMT",
+    "@87": "SUPER",
+    "@88": "USTC",
+    "@89": "NFTI",
+    "@90": "JUP",
+    "@91": "kLUNC",
+    "@92": "RSR",
+    "@93": "GALA",
+    "@94": "JTO",
+    "@95": "NTRN",
+    "@96": "ACE",
+    "@97": "MAV",
+    "@98": "WIF",
+    "@99": "CAKE",
+    "@100": "PEOPLE",
+    "@101": "ENS",
+    "@102": "ETC",
+    "@103": "XAI",
+    "@104": "MANTA",
+    "@105": "UMA",
+    "@106": "ONDO",
+    "@107": "ALT",
+    "@108": "ZETA",
+    "@109": "DYM",
+    "@110": "MAVIA",
+    "@111": "W",
+    "@112": "PANDORA",
+    "@113": "STRK",
+    "@114": "PIXEL",
+    "@115": "AI",
+    "@116": "TAO",
+    "@117": "AR",
+    "@118": "MYRO",
+    "@119": "kFLOKI",
+    "@120": "BOME",
+    "@121": "ETHFI",
+    "@122": "ENA",
+    "@123": "MNT",
+    "@124": "TNSR",
+    "@125": "SAGA",
+    "@126": "MERL",
+    "@127": "HBAR",
+    "@128": "POPCAT",
+    "@129": "OMNI",
+    "@130": "EIGEN",
+    "@131": "REZ",
+    "@132": "NOT",
+    "@133": "TURBO",
+    "@134": "BRETT",
+    "@135": "IO",
+    "@136": "ZK",
+    "@137": "BLAST",
+    "@138": "LISTA",
+    "@139": "MEW",
+    "@140": "RENDER",
+    "@141": "kDOGS",
+    "@142": "POL",
+    "@143": "CATI",
+    "@144": "CELO",
+    "@145": "HMSTR",
+    "@146": "SCR",
+    "@147": "NEIROETH",
+    "@148": "kNEIRO",
+    "@149": "GOAT",
+    "@150": "MOODENG",
+    "@151": "GRASS",
+    "@152": "PURR",
+    "@153": "PNUT",
+    "@154": "XLM",
+    "@155": "CHILLGUY",
+    "@156": "SAND",
+    "@157": "IOTA",
+    "@158": "ALGO",
+    "@159": "HYPE",
+    "@160": "ME",
+    "@161": "MOVE",
+    "@162": "VIRTUAL",
+    "@163": "PENGU",
+    "@164": "USUAL",
+    "@165": "FARTCOIN",
+    "@166": "AI16Z",
+    "@167": "AIXBT",
+    "@168": "ZEREBRO",
+    "@169": "BIO",
+    "@170": "GRIFFAIN",
+    "@171": "SPX",
+    "@172": "S",
+    "@173": "MORPHO",
+    "@174": "TRUMP",
+    "@175": "MELANIA",
+    "@176": "ANIME",
+    "@177": "VINE",
+    "@178": "VVV",
+    "@179": "JELLY",
+    "@180": "BERA",
+    "@181": "TST",
+    "@182": "LAYER",
+    "@183": "IP",
+    "@184": "OM",
+    "@185": "KAITO",
+    "@186": "NIL",
+    "@187": "PAXG",
+    "@188": "PROMPT",
+    "@189": "BABY",
+    "@190": "WCT",
+    "@191": "HYPER",
+    "@192": "ZORA",
+    "@193": "INIT",
+    "@194": "DOOD",
+    "@195": "LAUNCHCOIN",
+    "@196": "NXPC",
+    "@197": "SOPH",
+    "@198": "RESOLV",
+    "@199": "SYRUP",
+    "@200": "PUMP",
+    "@201": "PROVE",
+    "@10000": "PURR/USDC"
+  },
+  "all_tokens": {
+    "BTC": {
+      "type": "perp",
+      "index": 0,
+      "token_key": "@0",
+      "name": "BTC"
+    },
+    "@0": {
+      "type": "perp",
+      "index": 0,
+      "token_key": "@0",
+      "name": "BTC"
+    },
+    "0": {
+      "type": "perp",
+      "index": 0,
+      "token_key": "@0",
+      "name": "BTC"
+    },
+    "ETH": {
+      "type": "perp",
+      "index": 1,
+      "token_key": "@1",
+      "name": "ETH"
+    },
+    "@1": {
+      "type": "perp",
+      "index": 1,
+      "token_key": "@1",
+      "name": "ETH"
+    },
+    "1": {
+      "type": "perp",
+      "index": 1,
+      "token_key": "@1",
+      "name": "ETH"
+    },
+    "ATOM": {
+      "type": "perp",
+      "index": 2,
+      "token_key": "@2",
+      "name": "ATOM"
+    },
+    "@2": {
+      "type": "perp",
+      "index": 2,
+      "token_key": "@2",
+      "name": "ATOM"
+    },
+    "2": {
+      "type": "perp",
+      "index": 2,
+      "token_key": "@2",
+      "name": "ATOM"
+    },
+    "MATIC": {
+      "type": "perp",
+      "index": 3,
+      "token_key": "@3",
+      "name": "MATIC"
+    },
+    "@3": {
+      "type": "perp",
+      "index": 3,
+      "token_key": "@3",
+      "name": "MATIC"
+    },
+    "3": {
+      "type": "perp",
+      "index": 3,
+      "token_key": "@3",
+      "name": "MATIC"
+    },
+    "DYDX": {
+      "type": "perp",
+      "index": 4,
+      "token_key": "@4",
+      "name": "DYDX"
+    },
+    "@4": {
+      "type": "perp",
+      "index": 4,
+      "token_key": "@4",
+      "name": "DYDX"
+    },
+    "4": {
+      "type": "perp",
+      "index": 4,
+      "token_key": "@4",
+      "name": "DYDX"
+    },
+    "SOL": {
+      "type": "perp",
+      "index": 5,
+      "token_key": "@5",
+      "name": "SOL"
+    },
+    "@5": {
+      "type": "perp",
+      "index": 5,
+      "token_key": "@5",
+      "name": "SOL"
+    },
+    "5": {
+      "type": "perp",
+      "index": 5,
+      "token_key": "@5",
+      "name": "SOL"
+    },
+    "AVAX": {
+      "type": "perp",
+      "index": 6,
+      "token_key": "@6",
+      "name": "AVAX"
+    },
+    "@6": {
+      "type": "perp",
+      "index": 6,
+      "token_key": "@6",
+      "name": "AVAX"
+    },
+    "6": {
+      "type": "perp",
+      "index": 6,
+      "token_key": "@6",
+      "name": "AVAX"
+    },
+    "BNB": {
+      "type": "perp",
+      "index": 7,
+      "token_key": "@7",
+      "name": "BNB"
+    },
+    "@7": {
+      "type": "perp",
+      "index": 7,
+      "token_key": "@7",
+      "name": "BNB"
+    },
+    "7": {
+      "type": "perp",
+      "index": 7,
+      "token_key": "@7",
+      "name": "BNB"
+    },
+    "APE": {
+      "type": "perp",
+      "index": 8,
+      "token_key": "@8",
+      "name": "APE"
+    },
+    "@8": {
+      "type": "perp",
+      "index": 8,
+      "token_key": "@8",
+      "name": "APE"
+    },
+    "8": {
+      "type": "perp",
+      "index": 8,
+      "token_key": "@8",
+      "name": "APE"
+    },
+    "OP": {
+      "type": "perp",
+      "index": 9,
+      "token_key": "@9",
+      "name": "OP"
+    },
+    "@9": {
+      "type": "perp",
+      "index": 9,
+      "token_key": "@9",
+      "name": "OP"
+    },
+    "9": {
+      "type": "perp",
+      "index": 9,
+      "token_key": "@9",
+      "name": "OP"
+    },
+    "LTC": {
+      "type": "perp",
+      "index": 10,
+      "token_key": "@10",
+      "name": "LTC"
+    },
+    "@10": {
+      "type": "perp",
+      "index": 10,
+      "token_key": "@10",
+      "name": "LTC"
+    },
+    "10": {
+      "type": "perp",
+      "index": 10,
+      "token_key": "@10",
+      "name": "LTC"
+    },
+    "ARB": {
+      "type": "perp",
+      "index": 11,
+      "token_key": "@11",
+      "name": "ARB"
+    },
+    "@11": {
+      "type": "perp",
+      "index": 11,
+      "token_key": "@11",
+      "name": "ARB"
+    },
+    "11": {
+      "type": "perp",
+      "index": 11,
+      "token_key": "@11",
+      "name": "ARB"
+    },
+    "DOGE": {
+      "type": "perp",
+      "index": 12,
+      "token_key": "@12",
+      "name": "DOGE"
+    },
+    "@12": {
+      "type": "perp",
+      "index": 12,
+      "token_key": "@12",
+      "name": "DOGE"
+    },
+    "12": {
+      "type": "perp",
+      "index": 12,
+      "token_key": "@12",
+      "name": "DOGE"
+    },
+    "INJ": {
+      "type": "perp",
+      "index": 13,
+      "token_key": "@13",
+      "name": "INJ"
+    },
+    "@13": {
+      "type": "perp",
+      "index": 13,
+      "token_key": "@13",
+      "name": "INJ"
+    },
+    "13": {
+      "type": "perp",
+      "index": 13,
+      "token_key": "@13",
+      "name": "INJ"
+    },
+    "SUI": {
+      "type": "perp",
+      "index": 14,
+      "token_key": "@14",
+      "name": "SUI"
+    },
+    "@14": {
+      "type": "perp",
+      "index": 14,
+      "token_key": "@14",
+      "name": "SUI"
+    },
+    "14": {
+      "type": "perp",
+      "index": 14,
+      "token_key": "@14",
+      "name": "SUI"
+    },
+    "KPEPE": {
+      "type": "perp",
+      "index": 15,
+      "token_key": "@15",
+      "name": "kPEPE"
+    },
+    "@15": {
+      "type": "perp",
+      "index": 15,
+      "token_key": "@15",
+      "name": "kPEPE"
+    },
+    "15": {
+      "type": "perp",
+      "index": 15,
+      "token_key": "@15",
+      "name": "kPEPE"
+    },
+    "CRV": {
+      "type": "perp",
+      "index": 16,
+      "token_key": "@16",
+      "name": "CRV"
+    },
+    "@16": {
+      "type": "perp",
+      "index": 16,
+      "token_key": "@16",
+      "name": "CRV"
+    },
+    "16": {
+      "type": "perp",
+      "index": 16,
+      "token_key": "@16",
+      "name": "CRV"
+    },
+    "LDO": {
+      "type": "perp",
+      "index": 17,
+      "token_key": "@17",
+      "name": "LDO"
+    },
+    "@17": {
+      "type": "perp",
+      "index": 17,
+      "token_key": "@17",
+      "name": "LDO"
+    },
+    "17": {
+      "type": "perp",
+      "index": 17,
+      "token_key": "@17",
+      "name": "LDO"
+    },
+    "LINK": {
+      "type": "perp",
+      "index": 18,
+      "token_key": "@18",
+      "name": "LINK"
+    },
+    "@18": {
+      "type": "perp",
+      "index": 18,
+      "token_key": "@18",
+      "name": "LINK"
+    },
+    "18": {
+      "type": "perp",
+      "index": 18,
+      "token_key": "@18",
+      "name": "LINK"
+    },
+    "STX": {
+      "type": "perp",
+      "index": 19,
+      "token_key": "@19",
+      "name": "STX"
+    },
+    "@19": {
+      "type": "perp",
+      "index": 19,
+      "token_key": "@19",
+      "name": "STX"
+    },
+    "19": {
+      "type": "perp",
+      "index": 19,
+      "token_key": "@19",
+      "name": "STX"
+    },
+    "RNDR": {
+      "type": "perp",
+      "index": 20,
+      "token_key": "@20",
+      "name": "RNDR"
+    },
+    "@20": {
+      "type": "perp",
+      "index": 20,
+      "token_key": "@20",
+      "name": "RNDR"
+    },
+    "20": {
+      "type": "perp",
+      "index": 20,
+      "token_key": "@20",
+      "name": "RNDR"
+    },
+    "CFX": {
+      "type": "perp",
+      "index": 21,
+      "token_key": "@21",
+      "name": "CFX"
+    },
+    "@21": {
+      "type": "perp",
+      "index": 21,
+      "token_key": "@21",
+      "name": "CFX"
+    },
+    "21": {
+      "type": "perp",
+      "index": 21,
+      "token_key": "@21",
+      "name": "CFX"
+    },
+    "FTM": {
+      "type": "perp",
+      "index": 22,
+      "token_key": "@22",
+      "name": "FTM"
+    },
+    "@22": {
+      "type": "perp",
+      "index": 22,
+      "token_key": "@22",
+      "name": "FTM"
+    },
+    "22": {
+      "type": "perp",
+      "index": 22,
+      "token_key": "@22",
+      "name": "FTM"
+    },
+    "GMX": {
+      "type": "perp",
+      "index": 23,
+      "token_key": "@23",
+      "name": "GMX"
+    },
+    "@23": {
+      "type": "perp",
+      "index": 23,
+      "token_key": "@23",
+      "name": "GMX"
+    },
+    "23": {
+      "type": "perp",
+      "index": 23,
+      "token_key": "@23",
+      "name": "GMX"
+    },
+    "SNX": {
+      "type": "perp",
+      "index": 24,
+      "token_key": "@24",
+      "name": "SNX"
+    },
+    "@24": {
+      "type": "perp",
+      "index": 24,
+      "token_key": "@24",
+      "name": "SNX"
+    },
+    "24": {
+      "type": "perp",
+      "index": 24,
+      "token_key": "@24",
+      "name": "SNX"
+    },
+    "XRP": {
+      "type": "perp",
+      "index": 25,
+      "token_key": "@25",
+      "name": "XRP"
+    },
+    "@25": {
+      "type": "perp",
+      "index": 25,
+      "token_key": "@25",
+      "name": "XRP"
+    },
+    "25": {
+      "type": "perp",
+      "index": 25,
+      "token_key": "@25",
+      "name": "XRP"
+    },
+    "BCH": {
+      "type": "perp",
+      "index": 26,
+      "token_key": "@26",
+      "name": "BCH"
+    },
+    "@26": {
+      "type": "perp",
+      "index": 26,
+      "token_key": "@26",
+      "name": "BCH"
+    },
+    "26": {
+      "type": "perp",
+      "index": 26,
+      "token_key": "@26",
+      "name": "BCH"
+    },
+    "APT": {
+      "type": "perp",
+      "index": 27,
+      "token_key": "@27",
+      "name": "APT"
+    },
+    "@27": {
+      "type": "perp",
+      "index": 27,
+      "token_key": "@27",
+      "name": "APT"
+    },
+    "27": {
+      "type": "perp",
+      "index": 27,
+      "token_key": "@27",
+      "name": "APT"
+    },
+    "AAVE": {
+      "type": "perp",
+      "index": 28,
+      "token_key": "@28",
+      "name": "AAVE"
+    },
+    "@28": {
+      "type": "perp",
+      "index": 28,
+      "token_key": "@28",
+      "name": "AAVE"
+    },
+    "28": {
+      "type": "perp",
+      "index": 28,
+      "token_key": "@28",
+      "name": "AAVE"
+    },
+    "COMP": {
+      "type": "perp",
+      "index": 29,
+      "token_key": "@29",
+      "name": "COMP"
+    },
+    "@29": {
+      "type": "perp",
+      "index": 29,
+      "token_key": "@29",
+      "name": "COMP"
+    },
+    "29": {
+      "type": "perp",
+      "index": 29,
+      "token_key": "@29",
+      "name": "COMP"
+    },
+    "MKR": {
+      "type": "perp",
+      "index": 30,
+      "token_key": "@30",
+      "name": "MKR"
+    },
+    "@30": {
+      "type": "perp",
+      "index": 30,
+      "token_key": "@30",
+      "name": "MKR"
+    },
+    "30": {
+      "type": "perp",
+      "index": 30,
+      "token_key": "@30",
+      "name": "MKR"
+    },
+    "WLD": {
+      "type": "perp",
+      "index": 31,
+      "token_key": "@31",
+      "name": "WLD"
+    },
+    "@31": {
+      "type": "perp",
+      "index": 31,
+      "token_key": "@31",
+      "name": "WLD"
+    },
+    "31": {
+      "type": "perp",
+      "index": 31,
+      "token_key": "@31",
+      "name": "WLD"
+    },
+    "FXS": {
+      "type": "perp",
+      "index": 32,
+      "token_key": "@32",
+      "name": "FXS"
+    },
+    "@32": {
+      "type": "perp",
+      "index": 32,
+      "token_key": "@32",
+      "name": "FXS"
+    },
+    "32": {
+      "type": "perp",
+      "index": 32,
+      "token_key": "@32",
+      "name": "FXS"
+    },
+    "HPOS": {
+      "type": "perp",
+      "index": 33,
+      "token_key": "@33",
+      "name": "HPOS"
+    },
+    "@33": {
+      "type": "perp",
+      "index": 33,
+      "token_key": "@33",
+      "name": "HPOS"
+    },
+    "33": {
+      "type": "perp",
+      "index": 33,
+      "token_key": "@33",
+      "name": "HPOS"
+    },
+    "RLB": {
+      "type": "perp",
+      "index": 34,
+      "token_key": "@34",
+      "name": "RLB"
+    },
+    "@34": {
+      "type": "perp",
+      "index": 34,
+      "token_key": "@34",
+      "name": "RLB"
+    },
+    "34": {
+      "type": "perp",
+      "index": 34,
+      "token_key": "@34",
+      "name": "RLB"
+    },
+    "UNIBOT": {
+      "type": "perp",
+      "index": 35,
+      "token_key": "@35",
+      "name": "UNIBOT"
+    },
+    "@35": {
+      "type": "perp",
+      "index": 35,
+      "token_key": "@35",
+      "name": "UNIBOT"
+    },
+    "35": {
+      "type": "perp",
+      "index": 35,
+      "token_key": "@35",
+      "name": "UNIBOT"
+    },
+    "YGG": {
+      "type": "perp",
+      "index": 36,
+      "token_key": "@36",
+      "name": "YGG"
+    },
+    "@36": {
+      "type": "perp",
+      "index": 36,
+      "token_key": "@36",
+      "name": "YGG"
+    },
+    "36": {
+      "type": "perp",
+      "index": 36,
+      "token_key": "@36",
+      "name": "YGG"
+    },
+    "TRX": {
+      "type": "perp",
+      "index": 37,
+      "token_key": "@37",
+      "name": "TRX"
+    },
+    "@37": {
+      "type": "perp",
+      "index": 37,
+      "token_key": "@37",
+      "name": "TRX"
+    },
+    "37": {
+      "type": "perp",
+      "index": 37,
+      "token_key": "@37",
+      "name": "TRX"
+    },
+    "KSHIB": {
+      "type": "perp",
+      "index": 38,
+      "token_key": "@38",
+      "name": "kSHIB"
+    },
+    "@38": {
+      "type": "perp",
+      "index": 38,
+      "token_key": "@38",
+      "name": "kSHIB"
+    },
+    "38": {
+      "type": "perp",
+      "index": 38,
+      "token_key": "@38",
+      "name": "kSHIB"
+    },
+    "UNI": {
+      "type": "perp",
+      "index": 39,
+      "token_key": "@39",
+      "name": "UNI"
+    },
+    "@39": {
+      "type": "perp",
+      "index": 39,
+      "token_key": "@39",
+      "name": "UNI"
+    },
+    "39": {
+      "type": "perp",
+      "index": 39,
+      "token_key": "@39",
+      "name": "UNI"
+    },
+    "SEI": {
+      "type": "perp",
+      "index": 40,
+      "token_key": "@40",
+      "name": "SEI"
+    },
+    "@40": {
+      "type": "perp",
+      "index": 40,
+      "token_key": "@40",
+      "name": "SEI"
+    },
+    "40": {
+      "type": "perp",
+      "index": 40,
+      "token_key": "@40",
+      "name": "SEI"
+    },
+    "RUNE": {
+      "type": "perp",
+      "index": 41,
+      "token_key": "@41",
+      "name": "RUNE"
+    },
+    "@41": {
+      "type": "perp",
+      "index": 41,
+      "token_key": "@41",
+      "name": "RUNE"
+    },
+    "41": {
+      "type": "perp",
+      "index": 41,
+      "token_key": "@41",
+      "name": "RUNE"
+    },
+    "OX": {
+      "type": "perp",
+      "index": 42,
+      "token_key": "@42",
+      "name": "OX"
+    },
+    "@42": {
+      "type": "perp",
+      "index": 42,
+      "token_key": "@42",
+      "name": "OX"
+    },
+    "42": {
+      "type": "perp",
+      "index": 42,
+      "token_key": "@42",
+      "name": "OX"
+    },
+    "FRIEND": {
+      "type": "perp",
+      "index": 43,
+      "token_key": "@43",
+      "name": "FRIEND"
+    },
+    "@43": {
+      "type": "perp",
+      "index": 43,
+      "token_key": "@43",
+      "name": "FRIEND"
+    },
+    "43": {
+      "type": "perp",
+      "index": 43,
+      "token_key": "@43",
+      "name": "FRIEND"
+    },
+    "SHIA": {
+      "type": "perp",
+      "index": 44,
+      "token_key": "@44",
+      "name": "SHIA"
+    },
+    "@44": {
+      "type": "perp",
+      "index": 44,
+      "token_key": "@44",
+      "name": "SHIA"
+    },
+    "44": {
+      "type": "perp",
+      "index": 44,
+      "token_key": "@44",
+      "name": "SHIA"
+    },
+    "CYBER": {
+      "type": "perp",
+      "index": 45,
+      "token_key": "@45",
+      "name": "CYBER"
+    },
+    "@45": {
+      "type": "perp",
+      "index": 45,
+      "token_key": "@45",
+      "name": "CYBER"
+    },
+    "45": {
+      "type": "perp",
+      "index": 45,
+      "token_key": "@45",
+      "name": "CYBER"
+    },
+    "ZRO": {
+      "type": "perp",
+      "index": 46,
+      "token_key": "@46",
+      "name": "ZRO"
+    },
+    "@46": {
+      "type": "perp",
+      "index": 46,
+      "token_key": "@46",
+      "name": "ZRO"
+    },
+    "46": {
+      "type": "perp",
+      "index": 46,
+      "token_key": "@46",
+      "name": "ZRO"
+    },
+    "BLZ": {
+      "type": "perp",
+      "index": 47,
+      "token_key": "@47",
+      "name": "BLZ"
+    },
+    "@47": {
+      "type": "perp",
+      "index": 47,
+      "token_key": "@47",
+      "name": "BLZ"
+    },
+    "47": {
+      "type": "perp",
+      "index": 47,
+      "token_key": "@47",
+      "name": "BLZ"
+    },
+    "DOT": {
+      "type": "perp",
+      "index": 48,
+      "token_key": "@48",
+      "name": "DOT"
+    },
+    "@48": {
+      "type": "perp",
+      "index": 48,
+      "token_key": "@48",
+      "name": "DOT"
+    },
+    "48": {
+      "type": "perp",
+      "index": 48,
+      "token_key": "@48",
+      "name": "DOT"
+    },
+    "BANANA": {
+      "type": "perp",
+      "index": 49,
+      "token_key": "@49",
+      "name": "BANANA"
+    },
+    "@49": {
+      "type": "perp",
+      "index": 49,
+      "token_key": "@49",
+      "name": "BANANA"
+    },
+    "49": {
+      "type": "perp",
+      "index": 49,
+      "token_key": "@49",
+      "name": "BANANA"
+    },
+    "TRB": {
+      "type": "perp",
+      "index": 50,
+      "token_key": "@50",
+      "name": "TRB"
+    },
+    "@50": {
+      "type": "perp",
+      "index": 50,
+      "token_key": "@50",
+      "name": "TRB"
+    },
+    "50": {
+      "type": "perp",
+      "index": 50,
+      "token_key": "@50",
+      "name": "TRB"
+    },
+    "FTT": {
+      "type": "perp",
+      "index": 51,
+      "token_key": "@51",
+      "name": "FTT"
+    },
+    "@51": {
+      "type": "perp",
+      "index": 51,
+      "token_key": "@51",
+      "name": "FTT"
+    },
+    "51": {
+      "type": "perp",
+      "index": 51,
+      "token_key": "@51",
+      "name": "FTT"
+    },
+    "LOOM": {
+      "type": "perp",
+      "index": 52,
+      "token_key": "@52",
+      "name": "LOOM"
+    },
+    "@52": {
+      "type": "perp",
+      "index": 52,
+      "token_key": "@52",
+      "name": "LOOM"
+    },
+    "52": {
+      "type": "perp",
+      "index": 52,
+      "token_key": "@52",
+      "name": "LOOM"
+    },
+    "OGN": {
+      "type": "perp",
+      "index": 53,
+      "token_key": "@53",
+      "name": "OGN"
+    },
+    "@53": {
+      "type": "perp",
+      "index": 53,
+      "token_key": "@53",
+      "name": "OGN"
+    },
+    "53": {
+      "type": "perp",
+      "index": 53,
+      "token_key": "@53",
+      "name": "OGN"
+    },
+    "RDNT": {
+      "type": "perp",
+      "index": 54,
+      "token_key": "@54",
+      "name": "RDNT"
+    },
+    "@54": {
+      "type": "perp",
+      "index": 54,
+      "token_key": "@54",
+      "name": "RDNT"
+    },
+    "54": {
+      "type": "perp",
+      "index": 54,
+      "token_key": "@54",
+      "name": "RDNT"
+    },
+    "ARK": {
+      "type": "perp",
+      "index": 55,
+      "token_key": "@55",
+      "name": "ARK"
+    },
+    "@55": {
+      "type": "perp",
+      "index": 55,
+      "token_key": "@55",
+      "name": "ARK"
+    },
+    "55": {
+      "type": "perp",
+      "index": 55,
+      "token_key": "@55",
+      "name": "ARK"
+    },
+    "BNT": {
+      "type": "perp",
+      "index": 56,
+      "token_key": "@56",
+      "name": "BNT"
+    },
+    "@56": {
+      "type": "perp",
+      "index": 56,
+      "token_key": "@56",
+      "name": "BNT"
+    },
+    "56": {
+      "type": "perp",
+      "index": 56,
+      "token_key": "@56",
+      "name": "BNT"
+    },
+    "CANTO": {
+      "type": "perp",
+      "index": 57,
+      "token_key": "@57",
+      "name": "CANTO"
+    },
+    "@57": {
+      "type": "perp",
+      "index": 57,
+      "token_key": "@57",
+      "name": "CANTO"
+    },
+    "57": {
+      "type": "perp",
+      "index": 57,
+      "token_key": "@57",
+      "name": "CANTO"
+    },
+    "REQ": {
+      "type": "perp",
+      "index": 58,
+      "token_key": "@58",
+      "name": "REQ"
+    },
+    "@58": {
+      "type": "perp",
+      "index": 58,
+      "token_key": "@58",
+      "name": "REQ"
+    },
+    "58": {
+      "type": "perp",
+      "index": 58,
+      "token_key": "@58",
+      "name": "REQ"
+    },
+    "BIGTIME": {
+      "type": "perp",
+      "index": 59,
+      "token_key": "@59",
+      "name": "BIGTIME"
+    },
+    "@59": {
+      "type": "perp",
+      "index": 59,
+      "token_key": "@59",
+      "name": "BIGTIME"
+    },
+    "59": {
+      "type": "perp",
+      "index": 59,
+      "token_key": "@59",
+      "name": "BIGTIME"
+    },
+    "KAS": {
+      "type": "perp",
+      "index": 60,
+      "token_key": "@60",
+      "name": "KAS"
+    },
+    "@60": {
+      "type": "perp",
+      "index": 60,
+      "token_key": "@60",
+      "name": "KAS"
+    },
+    "60": {
+      "type": "perp",
+      "index": 60,
+      "token_key": "@60",
+      "name": "KAS"
+    },
+    "ORBS": {
+      "type": "perp",
+      "index": 61,
+      "token_key": "@61",
+      "name": "ORBS"
+    },
+    "@61": {
+      "type": "perp",
+      "index": 61,
+      "token_key": "@61",
+      "name": "ORBS"
+    },
+    "61": {
+      "type": "perp",
+      "index": 61,
+      "token_key": "@61",
+      "name": "ORBS"
+    },
+    "BLUR": {
+      "type": "perp",
+      "index": 62,
+      "token_key": "@62",
+      "name": "BLUR"
+    },
+    "@62": {
+      "type": "perp",
+      "index": 62,
+      "token_key": "@62",
+      "name": "BLUR"
+    },
+    "62": {
+      "type": "perp",
+      "index": 62,
+      "token_key": "@62",
+      "name": "BLUR"
+    },
+    "TIA": {
+      "type": "perp",
+      "index": 63,
+      "token_key": "@63",
+      "name": "TIA"
+    },
+    "@63": {
+      "type": "perp",
+      "index": 63,
+      "token_key": "@63",
+      "name": "TIA"
+    },
+    "63": {
+      "type": "perp",
+      "index": 63,
+      "token_key": "@63",
+      "name": "TIA"
+    },
+    "BSV": {
+      "type": "perp",
+      "index": 64,
+      "token_key": "@64",
+      "name": "BSV"
+    },
+    "@64": {
+      "type": "perp",
+      "index": 64,
+      "token_key": "@64",
+      "name": "BSV"
+    },
+    "64": {
+      "type": "perp",
+      "index": 64,
+      "token_key": "@64",
+      "name": "BSV"
+    },
+    "ADA": {
+      "type": "perp",
+      "index": 65,
+      "token_key": "@65",
+      "name": "ADA"
+    },
+    "@65": {
+      "type": "perp",
+      "index": 65,
+      "token_key": "@65",
+      "name": "ADA"
+    },
+    "65": {
+      "type": "perp",
+      "index": 65,
+      "token_key": "@65",
+      "name": "ADA"
+    },
+    "TON": {
+      "type": "perp",
+      "index": 66,
+      "token_key": "@66",
+      "name": "TON"
+    },
+    "@66": {
+      "type": "perp",
+      "index": 66,
+      "token_key": "@66",
+      "name": "TON"
+    },
+    "66": {
+      "type": "perp",
+      "index": 66,
+      "token_key": "@66",
+      "name": "TON"
+    },
+    "MINA": {
+      "type": "perp",
+      "index": 67,
+      "token_key": "@67",
+      "name": "MINA"
+    },
+    "@67": {
+      "type": "perp",
+      "index": 67,
+      "token_key": "@67",
+      "name": "MINA"
+    },
+    "67": {
+      "type": "perp",
+      "index": 67,
+      "token_key": "@67",
+      "name": "MINA"
+    },
+    "POLYX": {
+      "type": "perp",
+      "index": 68,
+      "token_key": "@68",
+      "name": "POLYX"
+    },
+    "@68": {
+      "type": "perp",
+      "index": 68,
+      "token_key": "@68",
+      "name": "POLYX"
+    },
+    "68": {
+      "type": "perp",
+      "index": 68,
+      "token_key": "@68",
+      "name": "POLYX"
+    },
+    "GAS": {
+      "type": "perp",
+      "index": 69,
+      "token_key": "@69",
+      "name": "GAS"
+    },
+    "@69": {
+      "type": "perp",
+      "index": 69,
+      "token_key": "@69",
+      "name": "GAS"
+    },
+    "69": {
+      "type": "perp",
+      "index": 69,
+      "token_key": "@69",
+      "name": "GAS"
+    },
+    "PENDLE": {
+      "type": "perp",
+      "index": 70,
+      "token_key": "@70",
+      "name": "PENDLE"
+    },
+    "@70": {
+      "type": "perp",
+      "index": 70,
+      "token_key": "@70",
+      "name": "PENDLE"
+    },
+    "70": {
+      "type": "perp",
+      "index": 70,
+      "token_key": "@70",
+      "name": "PENDLE"
+    },
+    "STG": {
+      "type": "perp",
+      "index": 71,
+      "token_key": "@71",
+      "name": "STG"
+    },
+    "@71": {
+      "type": "perp",
+      "index": 71,
+      "token_key": "@71",
+      "name": "STG"
+    },
+    "71": {
+      "type": "perp",
+      "index": 71,
+      "token_key": "@71",
+      "name": "STG"
+    },
+    "FET": {
+      "type": "perp",
+      "index": 72,
+      "token_key": "@72",
+      "name": "FET"
+    },
+    "@72": {
+      "type": "perp",
+      "index": 72,
+      "token_key": "@72",
+      "name": "FET"
+    },
+    "72": {
+      "type": "perp",
+      "index": 72,
+      "token_key": "@72",
+      "name": "FET"
+    },
+    "STRAX": {
+      "type": "perp",
+      "index": 73,
+      "token_key": "@73",
+      "name": "STRAX"
+    },
+    "@73": {
+      "type": "perp",
+      "index": 73,
+      "token_key": "@73",
+      "name": "STRAX"
+    },
+    "73": {
+      "type": "perp",
+      "index": 73,
+      "token_key": "@73",
+      "name": "STRAX"
+    },
+    "NEAR": {
+      "type": "perp",
+      "index": 74,
+      "token_key": "@74",
+      "name": "NEAR"
+    },
+    "@74": {
+      "type": "perp",
+      "index": 74,
+      "token_key": "@74",
+      "name": "NEAR"
+    },
+    "74": {
+      "type": "perp",
+      "index": 74,
+      "token_key": "@74",
+      "name": "NEAR"
+    },
+    "MEME": {
+      "type": "perp",
+      "index": 75,
+      "token_key": "@75",
+      "name": "MEME"
+    },
+    "@75": {
+      "type": "perp",
+      "index": 75,
+      "token_key": "@75",
+      "name": "MEME"
+    },
+    "75": {
+      "type": "perp",
+      "index": 75,
+      "token_key": "@75",
+      "name": "MEME"
+    },
+    "ORDI": {
+      "type": "perp",
+      "index": 76,
+      "token_key": "@76",
+      "name": "ORDI"
+    },
+    "@76": {
+      "type": "perp",
+      "index": 76,
+      "token_key": "@76",
+      "name": "ORDI"
+    },
+    "76": {
+      "type": "perp",
+      "index": 76,
+      "token_key": "@76",
+      "name": "ORDI"
+    },
+    "BADGER": {
+      "type": "perp",
+      "index": 77,
+      "token_key": "@77",
+      "name": "BADGER"
+    },
+    "@77": {
+      "type": "perp",
+      "index": 77,
+      "token_key": "@77",
+      "name": "BADGER"
+    },
+    "77": {
+      "type": "perp",
+      "index": 77,
+      "token_key": "@77",
+      "name": "BADGER"
+    },
+    "NEO": {
+      "type": "perp",
+      "index": 78,
+      "token_key": "@78",
+      "name": "NEO"
+    },
+    "@78": {
+      "type": "perp",
+      "index": 78,
+      "token_key": "@78",
+      "name": "NEO"
+    },
+    "78": {
+      "type": "perp",
+      "index": 78,
+      "token_key": "@78",
+      "name": "NEO"
+    },
+    "ZEN": {
+      "type": "perp",
+      "index": 79,
+      "token_key": "@79",
+      "name": "ZEN"
+    },
+    "@79": {
+      "type": "perp",
+      "index": 79,
+      "token_key": "@79",
+      "name": "ZEN"
+    },
+    "79": {
+      "type": "perp",
+      "index": 79,
+      "token_key": "@79",
+      "name": "ZEN"
+    },
+    "FIL": {
+      "type": "perp",
+      "index": 80,
+      "token_key": "@80",
+      "name": "FIL"
+    },
+    "@80": {
+      "type": "perp",
+      "index": 80,
+      "token_key": "@80",
+      "name": "FIL"
+    },
+    "80": {
+      "type": "perp",
+      "index": 80,
+      "token_key": "@80",
+      "name": "FIL"
+    },
+    "PYTH": {
+      "type": "perp",
+      "index": 81,
+      "token_key": "@81",
+      "name": "PYTH"
+    },
+    "@81": {
+      "type": "perp",
+      "index": 81,
+      "token_key": "@81",
+      "name": "PYTH"
+    },
+    "81": {
+      "type": "perp",
+      "index": 81,
+      "token_key": "@81",
+      "name": "PYTH"
+    },
+    "SUSHI": {
+      "type": "perp",
+      "index": 82,
+      "token_key": "@82",
+      "name": "SUSHI"
+    },
+    "@82": {
+      "type": "perp",
+      "index": 82,
+      "token_key": "@82",
+      "name": "SUSHI"
+    },
+    "82": {
+      "type": "perp",
+      "index": 82,
+      "token_key": "@82",
+      "name": "SUSHI"
+    },
+    "ILV": {
+      "type": "perp",
+      "index": 83,
+      "token_key": "@83",
+      "name": "ILV"
+    },
+    "@83": {
+      "type": "perp",
+      "index": 83,
+      "token_key": "@83",
+      "name": "ILV"
+    },
+    "83": {
+      "type": "perp",
+      "index": 83,
+      "token_key": "@83",
+      "name": "ILV"
+    },
+    "IMX": {
+      "type": "perp",
+      "index": 84,
+      "token_key": "@84",
+      "name": "IMX"
+    },
+    "@84": {
+      "type": "perp",
+      "index": 84,
+      "token_key": "@84",
+      "name": "IMX"
+    },
+    "84": {
+      "type": "perp",
+      "index": 84,
+      "token_key": "@84",
+      "name": "IMX"
+    },
+    "KBONK": {
+      "type": "perp",
+      "index": 85,
+      "token_key": "@85",
+      "name": "kBONK"
+    },
+    "@85": {
+      "type": "perp",
+      "index": 85,
+      "token_key": "@85",
+      "name": "kBONK"
+    },
+    "85": {
+      "type": "perp",
+      "index": 85,
+      "token_key": "@85",
+      "name": "kBONK"
+    },
+    "GMT": {
+      "type": "perp",
+      "index": 86,
+      "token_key": "@86",
+      "name": "GMT"
+    },
+    "@86": {
+      "type": "perp",
+      "index": 86,
+      "token_key": "@86",
+      "name": "GMT"
+    },
+    "86": {
+      "type": "perp",
+      "index": 86,
+      "token_key": "@86",
+      "name": "GMT"
+    },
+    "SUPER": {
+      "type": "perp",
+      "index": 87,
+      "token_key": "@87",
+      "name": "SUPER"
+    },
+    "@87": {
+      "type": "perp",
+      "index": 87,
+      "token_key": "@87",
+      "name": "SUPER"
+    },
+    "87": {
+      "type": "perp",
+      "index": 87,
+      "token_key": "@87",
+      "name": "SUPER"
+    },
+    "USTC": {
+      "type": "perp",
+      "index": 88,
+      "token_key": "@88",
+      "name": "USTC"
+    },
+    "@88": {
+      "type": "perp",
+      "index": 88,
+      "token_key": "@88",
+      "name": "USTC"
+    },
+    "88": {
+      "type": "perp",
+      "index": 88,
+      "token_key": "@88",
+      "name": "USTC"
+    },
+    "NFTI": {
+      "type": "perp",
+      "index": 89,
+      "token_key": "@89",
+      "name": "NFTI"
+    },
+    "@89": {
+      "type": "perp",
+      "index": 89,
+      "token_key": "@89",
+      "name": "NFTI"
+    },
+    "89": {
+      "type": "perp",
+      "index": 89,
+      "token_key": "@89",
+      "name": "NFTI"
+    },
+    "JUP": {
+      "type": "perp",
+      "index": 90,
+      "token_key": "@90",
+      "name": "JUP"
+    },
+    "@90": {
+      "type": "perp",
+      "index": 90,
+      "token_key": "@90",
+      "name": "JUP"
+    },
+    "90": {
+      "type": "perp",
+      "index": 90,
+      "token_key": "@90",
+      "name": "JUP"
+    },
+    "KLUNC": {
+      "type": "perp",
+      "index": 91,
+      "token_key": "@91",
+      "name": "kLUNC"
+    },
+    "@91": {
+      "type": "perp",
+      "index": 91,
+      "token_key": "@91",
+      "name": "kLUNC"
+    },
+    "91": {
+      "type": "perp",
+      "index": 91,
+      "token_key": "@91",
+      "name": "kLUNC"
+    },
+    "RSR": {
+      "type": "perp",
+      "index": 92,
+      "token_key": "@92",
+      "name": "RSR"
+    },
+    "@92": {
+      "type": "perp",
+      "index": 92,
+      "token_key": "@92",
+      "name": "RSR"
+    },
+    "92": {
+      "type": "perp",
+      "index": 92,
+      "token_key": "@92",
+      "name": "RSR"
+    },
+    "GALA": {
+      "type": "perp",
+      "index": 93,
+      "token_key": "@93",
+      "name": "GALA"
+    },
+    "@93": {
+      "type": "perp",
+      "index": 93,
+      "token_key": "@93",
+      "name": "GALA"
+    },
+    "93": {
+      "type": "perp",
+      "index": 93,
+      "token_key": "@93",
+      "name": "GALA"
+    },
+    "JTO": {
+      "type": "perp",
+      "index": 94,
+      "token_key": "@94",
+      "name": "JTO"
+    },
+    "@94": {
+      "type": "perp",
+      "index": 94,
+      "token_key": "@94",
+      "name": "JTO"
+    },
+    "94": {
+      "type": "perp",
+      "index": 94,
+      "token_key": "@94",
+      "name": "JTO"
+    },
+    "NTRN": {
+      "type": "perp",
+      "index": 95,
+      "token_key": "@95",
+      "name": "NTRN"
+    },
+    "@95": {
+      "type": "perp",
+      "index": 95,
+      "token_key": "@95",
+      "name": "NTRN"
+    },
+    "95": {
+      "type": "perp",
+      "index": 95,
+      "token_key": "@95",
+      "name": "NTRN"
+    },
+    "ACE": {
+      "type": "perp",
+      "index": 96,
+      "token_key": "@96",
+      "name": "ACE"
+    },
+    "@96": {
+      "type": "perp",
+      "index": 96,
+      "token_key": "@96",
+      "name": "ACE"
+    },
+    "96": {
+      "type": "perp",
+      "index": 96,
+      "token_key": "@96",
+      "name": "ACE"
+    },
+    "MAV": {
+      "type": "perp",
+      "index": 97,
+      "token_key": "@97",
+      "name": "MAV"
+    },
+    "@97": {
+      "type": "perp",
+      "index": 97,
+      "token_key": "@97",
+      "name": "MAV"
+    },
+    "97": {
+      "type": "perp",
+      "index": 97,
+      "token_key": "@97",
+      "name": "MAV"
+    },
+    "WIF": {
+      "type": "perp",
+      "index": 98,
+      "token_key": "@98",
+      "name": "WIF"
+    },
+    "@98": {
+      "type": "perp",
+      "index": 98,
+      "token_key": "@98",
+      "name": "WIF"
+    },
+    "98": {
+      "type": "perp",
+      "index": 98,
+      "token_key": "@98",
+      "name": "WIF"
+    },
+    "CAKE": {
+      "type": "perp",
+      "index": 99,
+      "token_key": "@99",
+      "name": "CAKE"
+    },
+    "@99": {
+      "type": "perp",
+      "index": 99,
+      "token_key": "@99",
+      "name": "CAKE"
+    },
+    "99": {
+      "type": "perp",
+      "index": 99,
+      "token_key": "@99",
+      "name": "CAKE"
+    },
+    "PEOPLE": {
+      "type": "perp",
+      "index": 100,
+      "token_key": "@100",
+      "name": "PEOPLE"
+    },
+    "@100": {
+      "type": "perp",
+      "index": 100,
+      "token_key": "@100",
+      "name": "PEOPLE"
+    },
+    "100": {
+      "type": "perp",
+      "index": 100,
+      "token_key": "@100",
+      "name": "PEOPLE"
+    },
+    "ENS": {
+      "type": "perp",
+      "index": 101,
+      "token_key": "@101",
+      "name": "ENS"
+    },
+    "@101": {
+      "type": "perp",
+      "index": 101,
+      "token_key": "@101",
+      "name": "ENS"
+    },
+    "101": {
+      "type": "perp",
+      "index": 101,
+      "token_key": "@101",
+      "name": "ENS"
+    },
+    "ETC": {
+      "type": "perp",
+      "index": 102,
+      "token_key": "@102",
+      "name": "ETC"
+    },
+    "@102": {
+      "type": "perp",
+      "index": 102,
+      "token_key": "@102",
+      "name": "ETC"
+    },
+    "102": {
+      "type": "perp",
+      "index": 102,
+      "token_key": "@102",
+      "name": "ETC"
+    },
+    "XAI": {
+      "type": "perp",
+      "index": 103,
+      "token_key": "@103",
+      "name": "XAI"
+    },
+    "@103": {
+      "type": "perp",
+      "index": 103,
+      "token_key": "@103",
+      "name": "XAI"
+    },
+    "103": {
+      "type": "perp",
+      "index": 103,
+      "token_key": "@103",
+      "name": "XAI"
+    },
+    "MANTA": {
+      "type": "perp",
+      "index": 104,
+      "token_key": "@104",
+      "name": "MANTA"
+    },
+    "@104": {
+      "type": "perp",
+      "index": 104,
+      "token_key": "@104",
+      "name": "MANTA"
+    },
+    "104": {
+      "type": "perp",
+      "index": 104,
+      "token_key": "@104",
+      "name": "MANTA"
+    },
+    "UMA": {
+      "type": "perp",
+      "index": 105,
+      "token_key": "@105",
+      "name": "UMA"
+    },
+    "@105": {
+      "type": "perp",
+      "index": 105,
+      "token_key": "@105",
+      "name": "UMA"
+    },
+    "105": {
+      "type": "perp",
+      "index": 105,
+      "token_key": "@105",
+      "name": "UMA"
+    },
+    "ONDO": {
+      "type": "perp",
+      "index": 106,
+      "token_key": "@106",
+      "name": "ONDO"
+    },
+    "@106": {
+      "type": "perp",
+      "index": 106,
+      "token_key": "@106",
+      "name": "ONDO"
+    },
+    "106": {
+      "type": "perp",
+      "index": 106,
+      "token_key": "@106",
+      "name": "ONDO"
+    },
+    "ALT": {
+      "type": "perp",
+      "index": 107,
+      "token_key": "@107",
+      "name": "ALT"
+    },
+    "@107": {
+      "type": "perp",
+      "index": 107,
+      "token_key": "@107",
+      "name": "ALT"
+    },
+    "107": {
+      "type": "perp",
+      "index": 107,
+      "token_key": "@107",
+      "name": "ALT"
+    },
+    "ZETA": {
+      "type": "perp",
+      "index": 108,
+      "token_key": "@108",
+      "name": "ZETA"
+    },
+    "@108": {
+      "type": "perp",
+      "index": 108,
+      "token_key": "@108",
+      "name": "ZETA"
+    },
+    "108": {
+      "type": "perp",
+      "index": 108,
+      "token_key": "@108",
+      "name": "ZETA"
+    },
+    "DYM": {
+      "type": "perp",
+      "index": 109,
+      "token_key": "@109",
+      "name": "DYM"
+    },
+    "@109": {
+      "type": "perp",
+      "index": 109,
+      "token_key": "@109",
+      "name": "DYM"
+    },
+    "109": {
+      "type": "perp",
+      "index": 109,
+      "token_key": "@109",
+      "name": "DYM"
+    },
+    "MAVIA": {
+      "type": "perp",
+      "index": 110,
+      "token_key": "@110",
+      "name": "MAVIA"
+    },
+    "@110": {
+      "type": "perp",
+      "index": 110,
+      "token_key": "@110",
+      "name": "MAVIA"
+    },
+    "110": {
+      "type": "perp",
+      "index": 110,
+      "token_key": "@110",
+      "name": "MAVIA"
+    },
+    "W": {
+      "type": "perp",
+      "index": 111,
+      "token_key": "@111",
+      "name": "W"
+    },
+    "@111": {
+      "type": "perp",
+      "index": 111,
+      "token_key": "@111",
+      "name": "W"
+    },
+    "111": {
+      "type": "perp",
+      "index": 111,
+      "token_key": "@111",
+      "name": "W"
+    },
+    "PANDORA": {
+      "type": "perp",
+      "index": 112,
+      "token_key": "@112",
+      "name": "PANDORA"
+    },
+    "@112": {
+      "type": "perp",
+      "index": 112,
+      "token_key": "@112",
+      "name": "PANDORA"
+    },
+    "112": {
+      "type": "perp",
+      "index": 112,
+      "token_key": "@112",
+      "name": "PANDORA"
+    },
+    "STRK": {
+      "type": "perp",
+      "index": 113,
+      "token_key": "@113",
+      "name": "STRK"
+    },
+    "@113": {
+      "type": "perp",
+      "index": 113,
+      "token_key": "@113",
+      "name": "STRK"
+    },
+    "113": {
+      "type": "perp",
+      "index": 113,
+      "token_key": "@113",
+      "name": "STRK"
+    },
+    "PIXEL": {
+      "type": "perp",
+      "index": 114,
+      "token_key": "@114",
+      "name": "PIXEL"
+    },
+    "@114": {
+      "type": "perp",
+      "index": 114,
+      "token_key": "@114",
+      "name": "PIXEL"
+    },
+    "114": {
+      "type": "perp",
+      "index": 114,
+      "token_key": "@114",
+      "name": "PIXEL"
+    },
+    "AI": {
+      "type": "perp",
+      "index": 115,
+      "token_key": "@115",
+      "name": "AI"
+    },
+    "@115": {
+      "type": "perp",
+      "index": 115,
+      "token_key": "@115",
+      "name": "AI"
+    },
+    "115": {
+      "type": "perp",
+      "index": 115,
+      "token_key": "@115",
+      "name": "AI"
+    },
+    "TAO": {
+      "type": "perp",
+      "index": 116,
+      "token_key": "@116",
+      "name": "TAO"
+    },
+    "@116": {
+      "type": "perp",
+      "index": 116,
+      "token_key": "@116",
+      "name": "TAO"
+    },
+    "116": {
+      "type": "perp",
+      "index": 116,
+      "token_key": "@116",
+      "name": "TAO"
+    },
+    "AR": {
+      "type": "perp",
+      "index": 117,
+      "token_key": "@117",
+      "name": "AR"
+    },
+    "@117": {
+      "type": "perp",
+      "index": 117,
+      "token_key": "@117",
+      "name": "AR"
+    },
+    "117": {
+      "type": "perp",
+      "index": 117,
+      "token_key": "@117",
+      "name": "AR"
+    },
+    "MYRO": {
+      "type": "perp",
+      "index": 118,
+      "token_key": "@118",
+      "name": "MYRO"
+    },
+    "@118": {
+      "type": "perp",
+      "index": 118,
+      "token_key": "@118",
+      "name": "MYRO"
+    },
+    "118": {
+      "type": "perp",
+      "index": 118,
+      "token_key": "@118",
+      "name": "MYRO"
+    },
+    "KFLOKI": {
+      "type": "perp",
+      "index": 119,
+      "token_key": "@119",
+      "name": "kFLOKI"
+    },
+    "@119": {
+      "type": "perp",
+      "index": 119,
+      "token_key": "@119",
+      "name": "kFLOKI"
+    },
+    "119": {
+      "type": "perp",
+      "index": 119,
+      "token_key": "@119",
+      "name": "kFLOKI"
+    },
+    "BOME": {
+      "type": "perp",
+      "index": 120,
+      "token_key": "@120",
+      "name": "BOME"
+    },
+    "@120": {
+      "type": "perp",
+      "index": 120,
+      "token_key": "@120",
+      "name": "BOME"
+    },
+    "120": {
+      "type": "perp",
+      "index": 120,
+      "token_key": "@120",
+      "name": "BOME"
+    },
+    "ETHFI": {
+      "type": "perp",
+      "index": 121,
+      "token_key": "@121",
+      "name": "ETHFI"
+    },
+    "@121": {
+      "type": "perp",
+      "index": 121,
+      "token_key": "@121",
+      "name": "ETHFI"
+    },
+    "121": {
+      "type": "perp",
+      "index": 121,
+      "token_key": "@121",
+      "name": "ETHFI"
+    },
+    "ENA": {
+      "type": "perp",
+      "index": 122,
+      "token_key": "@122",
+      "name": "ENA"
+    },
+    "@122": {
+      "type": "perp",
+      "index": 122,
+      "token_key": "@122",
+      "name": "ENA"
+    },
+    "122": {
+      "type": "perp",
+      "index": 122,
+      "token_key": "@122",
+      "name": "ENA"
+    },
+    "MNT": {
+      "type": "perp",
+      "index": 123,
+      "token_key": "@123",
+      "name": "MNT"
+    },
+    "@123": {
+      "type": "perp",
+      "index": 123,
+      "token_key": "@123",
+      "name": "MNT"
+    },
+    "123": {
+      "type": "perp",
+      "index": 123,
+      "token_key": "@123",
+      "name": "MNT"
+    },
+    "TNSR": {
+      "type": "perp",
+      "index": 124,
+      "token_key": "@124",
+      "name": "TNSR"
+    },
+    "@124": {
+      "type": "perp",
+      "index": 124,
+      "token_key": "@124",
+      "name": "TNSR"
+    },
+    "124": {
+      "type": "perp",
+      "index": 124,
+      "token_key": "@124",
+      "name": "TNSR"
+    },
+    "SAGA": {
+      "type": "perp",
+      "index": 125,
+      "token_key": "@125",
+      "name": "SAGA"
+    },
+    "@125": {
+      "type": "perp",
+      "index": 125,
+      "token_key": "@125",
+      "name": "SAGA"
+    },
+    "125": {
+      "type": "perp",
+      "index": 125,
+      "token_key": "@125",
+      "name": "SAGA"
+    },
+    "MERL": {
+      "type": "perp",
+      "index": 126,
+      "token_key": "@126",
+      "name": "MERL"
+    },
+    "@126": {
+      "type": "perp",
+      "index": 126,
+      "token_key": "@126",
+      "name": "MERL"
+    },
+    "126": {
+      "type": "perp",
+      "index": 126,
+      "token_key": "@126",
+      "name": "MERL"
+    },
+    "HBAR": {
+      "type": "perp",
+      "index": 127,
+      "token_key": "@127",
+      "name": "HBAR"
+    },
+    "@127": {
+      "type": "perp",
+      "index": 127,
+      "token_key": "@127",
+      "name": "HBAR"
+    },
+    "127": {
+      "type": "perp",
+      "index": 127,
+      "token_key": "@127",
+      "name": "HBAR"
+    },
+    "POPCAT": {
+      "type": "perp",
+      "index": 128,
+      "token_key": "@128",
+      "name": "POPCAT"
+    },
+    "@128": {
+      "type": "perp",
+      "index": 128,
+      "token_key": "@128",
+      "name": "POPCAT"
+    },
+    "128": {
+      "type": "perp",
+      "index": 128,
+      "token_key": "@128",
+      "name": "POPCAT"
+    },
+    "OMNI": {
+      "type": "perp",
+      "index": 129,
+      "token_key": "@129",
+      "name": "OMNI"
+    },
+    "@129": {
+      "type": "perp",
+      "index": 129,
+      "token_key": "@129",
+      "name": "OMNI"
+    },
+    "129": {
+      "type": "perp",
+      "index": 129,
+      "token_key": "@129",
+      "name": "OMNI"
+    },
+    "EIGEN": {
+      "type": "perp",
+      "index": 130,
+      "token_key": "@130",
+      "name": "EIGEN"
+    },
+    "@130": {
+      "type": "perp",
+      "index": 130,
+      "token_key": "@130",
+      "name": "EIGEN"
+    },
+    "130": {
+      "type": "perp",
+      "index": 130,
+      "token_key": "@130",
+      "name": "EIGEN"
+    },
+    "REZ": {
+      "type": "perp",
+      "index": 131,
+      "token_key": "@131",
+      "name": "REZ"
+    },
+    "@131": {
+      "type": "perp",
+      "index": 131,
+      "token_key": "@131",
+      "name": "REZ"
+    },
+    "131": {
+      "type": "perp",
+      "index": 131,
+      "token_key": "@131",
+      "name": "REZ"
+    },
+    "NOT": {
+      "type": "perp",
+      "index": 132,
+      "token_key": "@132",
+      "name": "NOT"
+    },
+    "@132": {
+      "type": "perp",
+      "index": 132,
+      "token_key": "@132",
+      "name": "NOT"
+    },
+    "132": {
+      "type": "perp",
+      "index": 132,
+      "token_key": "@132",
+      "name": "NOT"
+    },
+    "TURBO": {
+      "type": "perp",
+      "index": 133,
+      "token_key": "@133",
+      "name": "TURBO"
+    },
+    "@133": {
+      "type": "perp",
+      "index": 133,
+      "token_key": "@133",
+      "name": "TURBO"
+    },
+    "133": {
+      "type": "perp",
+      "index": 133,
+      "token_key": "@133",
+      "name": "TURBO"
+    },
+    "BRETT": {
+      "type": "perp",
+      "index": 134,
+      "token_key": "@134",
+      "name": "BRETT"
+    },
+    "@134": {
+      "type": "perp",
+      "index": 134,
+      "token_key": "@134",
+      "name": "BRETT"
+    },
+    "134": {
+      "type": "perp",
+      "index": 134,
+      "token_key": "@134",
+      "name": "BRETT"
+    },
+    "IO": {
+      "type": "perp",
+      "index": 135,
+      "token_key": "@135",
+      "name": "IO"
+    },
+    "@135": {
+      "type": "perp",
+      "index": 135,
+      "token_key": "@135",
+      "name": "IO"
+    },
+    "135": {
+      "type": "perp",
+      "index": 135,
+      "token_key": "@135",
+      "name": "IO"
+    },
+    "ZK": {
+      "type": "perp",
+      "index": 136,
+      "token_key": "@136",
+      "name": "ZK"
+    },
+    "@136": {
+      "type": "perp",
+      "index": 136,
+      "token_key": "@136",
+      "name": "ZK"
+    },
+    "136": {
+      "type": "perp",
+      "index": 136,
+      "token_key": "@136",
+      "name": "ZK"
+    },
+    "BLAST": {
+      "type": "perp",
+      "index": 137,
+      "token_key": "@137",
+      "name": "BLAST"
+    },
+    "@137": {
+      "type": "perp",
+      "index": 137,
+      "token_key": "@137",
+      "name": "BLAST"
+    },
+    "137": {
+      "type": "perp",
+      "index": 137,
+      "token_key": "@137",
+      "name": "BLAST"
+    },
+    "LISTA": {
+      "type": "perp",
+      "index": 138,
+      "token_key": "@138",
+      "name": "LISTA"
+    },
+    "@138": {
+      "type": "perp",
+      "index": 138,
+      "token_key": "@138",
+      "name": "LISTA"
+    },
+    "138": {
+      "type": "perp",
+      "index": 138,
+      "token_key": "@138",
+      "name": "LISTA"
+    },
+    "MEW": {
+      "type": "perp",
+      "index": 139,
+      "token_key": "@139",
+      "name": "MEW"
+    },
+    "@139": {
+      "type": "perp",
+      "index": 139,
+      "token_key": "@139",
+      "name": "MEW"
+    },
+    "139": {
+      "type": "perp",
+      "index": 139,
+      "token_key": "@139",
+      "name": "MEW"
+    },
+    "RENDER": {
+      "type": "perp",
+      "index": 140,
+      "token_key": "@140",
+      "name": "RENDER"
+    },
+    "@140": {
+      "type": "perp",
+      "index": 140,
+      "token_key": "@140",
+      "name": "RENDER"
+    },
+    "140": {
+      "type": "perp",
+      "index": 140,
+      "token_key": "@140",
+      "name": "RENDER"
+    },
+    "KDOGS": {
+      "type": "perp",
+      "index": 141,
+      "token_key": "@141",
+      "name": "kDOGS"
+    },
+    "@141": {
+      "type": "perp",
+      "index": 141,
+      "token_key": "@141",
+      "name": "kDOGS"
+    },
+    "141": {
+      "type": "perp",
+      "index": 141,
+      "token_key": "@141",
+      "name": "kDOGS"
+    },
+    "POL": {
+      "type": "perp",
+      "index": 142,
+      "token_key": "@142",
+      "name": "POL"
+    },
+    "@142": {
+      "type": "perp",
+      "index": 142,
+      "token_key": "@142",
+      "name": "POL"
+    },
+    "142": {
+      "type": "perp",
+      "index": 142,
+      "token_key": "@142",
+      "name": "POL"
+    },
+    "CATI": {
+      "type": "perp",
+      "index": 143,
+      "token_key": "@143",
+      "name": "CATI"
+    },
+    "@143": {
+      "type": "perp",
+      "index": 143,
+      "token_key": "@143",
+      "name": "CATI"
+    },
+    "143": {
+      "type": "perp",
+      "index": 143,
+      "token_key": "@143",
+      "name": "CATI"
+    },
+    "CELO": {
+      "type": "perp",
+      "index": 144,
+      "token_key": "@144",
+      "name": "CELO"
+    },
+    "@144": {
+      "type": "perp",
+      "index": 144,
+      "token_key": "@144",
+      "name": "CELO"
+    },
+    "144": {
+      "type": "perp",
+      "index": 144,
+      "token_key": "@144",
+      "name": "CELO"
+    },
+    "HMSTR": {
+      "type": "perp",
+      "index": 145,
+      "token_key": "@145",
+      "name": "HMSTR"
+    },
+    "@145": {
+      "type": "perp",
+      "index": 145,
+      "token_key": "@145",
+      "name": "HMSTR"
+    },
+    "145": {
+      "type": "perp",
+      "index": 145,
+      "token_key": "@145",
+      "name": "HMSTR"
+    },
+    "SCR": {
+      "type": "perp",
+      "index": 146,
+      "token_key": "@146",
+      "name": "SCR"
+    },
+    "@146": {
+      "type": "perp",
+      "index": 146,
+      "token_key": "@146",
+      "name": "SCR"
+    },
+    "146": {
+      "type": "perp",
+      "index": 146,
+      "token_key": "@146",
+      "name": "SCR"
+    },
+    "NEIROETH": {
+      "type": "perp",
+      "index": 147,
+      "token_key": "@147",
+      "name": "NEIROETH"
+    },
+    "@147": {
+      "type": "perp",
+      "index": 147,
+      "token_key": "@147",
+      "name": "NEIROETH"
+    },
+    "147": {
+      "type": "perp",
+      "index": 147,
+      "token_key": "@147",
+      "name": "NEIROETH"
+    },
+    "KNEIRO": {
+      "type": "perp",
+      "index": 148,
+      "token_key": "@148",
+      "name": "kNEIRO"
+    },
+    "@148": {
+      "type": "perp",
+      "index": 148,
+      "token_key": "@148",
+      "name": "kNEIRO"
+    },
+    "148": {
+      "type": "perp",
+      "index": 148,
+      "token_key": "@148",
+      "name": "kNEIRO"
+    },
+    "GOAT": {
+      "type": "perp",
+      "index": 149,
+      "token_key": "@149",
+      "name": "GOAT"
+    },
+    "@149": {
+      "type": "perp",
+      "index": 149,
+      "token_key": "@149",
+      "name": "GOAT"
+    },
+    "149": {
+      "type": "perp",
+      "index": 149,
+      "token_key": "@149",
+      "name": "GOAT"
+    },
+    "MOODENG": {
+      "type": "perp",
+      "index": 150,
+      "token_key": "@150",
+      "name": "MOODENG"
+    },
+    "@150": {
+      "type": "perp",
+      "index": 150,
+      "token_key": "@150",
+      "name": "MOODENG"
+    },
+    "150": {
+      "type": "perp",
+      "index": 150,
+      "token_key": "@150",
+      "name": "MOODENG"
+    },
+    "GRASS": {
+      "type": "perp",
+      "index": 151,
+      "token_key": "@151",
+      "name": "GRASS"
+    },
+    "@151": {
+      "type": "perp",
+      "index": 151,
+      "token_key": "@151",
+      "name": "GRASS"
+    },
+    "151": {
+      "type": "perp",
+      "index": 151,
+      "token_key": "@151",
+      "name": "GRASS"
+    },
+    "PURR": {
+      "type": "perp",
+      "index": 152,
+      "token_key": "@152",
+      "name": "PURR"
+    },
+    "@152": {
+      "type": "perp",
+      "index": 152,
+      "token_key": "@152",
+      "name": "PURR"
+    },
+    "152": {
+      "type": "perp",
+      "index": 152,
+      "token_key": "@152",
+      "name": "PURR"
+    },
+    "PNUT": {
+      "type": "perp",
+      "index": 153,
+      "token_key": "@153",
+      "name": "PNUT"
+    },
+    "@153": {
+      "type": "perp",
+      "index": 153,
+      "token_key": "@153",
+      "name": "PNUT"
+    },
+    "153": {
+      "type": "perp",
+      "index": 153,
+      "token_key": "@153",
+      "name": "PNUT"
+    },
+    "XLM": {
+      "type": "perp",
+      "index": 154,
+      "token_key": "@154",
+      "name": "XLM"
+    },
+    "@154": {
+      "type": "perp",
+      "index": 154,
+      "token_key": "@154",
+      "name": "XLM"
+    },
+    "154": {
+      "type": "perp",
+      "index": 154,
+      "token_key": "@154",
+      "name": "XLM"
+    },
+    "CHILLGUY": {
+      "type": "perp",
+      "index": 155,
+      "token_key": "@155",
+      "name": "CHILLGUY"
+    },
+    "@155": {
+      "type": "perp",
+      "index": 155,
+      "token_key": "@155",
+      "name": "CHILLGUY"
+    },
+    "155": {
+      "type": "perp",
+      "index": 155,
+      "token_key": "@155",
+      "name": "CHILLGUY"
+    },
+    "SAND": {
+      "type": "perp",
+      "index": 156,
+      "token_key": "@156",
+      "name": "SAND"
+    },
+    "@156": {
+      "type": "perp",
+      "index": 156,
+      "token_key": "@156",
+      "name": "SAND"
+    },
+    "156": {
+      "type": "perp",
+      "index": 156,
+      "token_key": "@156",
+      "name": "SAND"
+    },
+    "IOTA": {
+      "type": "perp",
+      "index": 157,
+      "token_key": "@157",
+      "name": "IOTA"
+    },
+    "@157": {
+      "type": "perp",
+      "index": 157,
+      "token_key": "@157",
+      "name": "IOTA"
+    },
+    "157": {
+      "type": "perp",
+      "index": 157,
+      "token_key": "@157",
+      "name": "IOTA"
+    },
+    "ALGO": {
+      "type": "perp",
+      "index": 158,
+      "token_key": "@158",
+      "name": "ALGO"
+    },
+    "@158": {
+      "type": "perp",
+      "index": 158,
+      "token_key": "@158",
+      "name": "ALGO"
+    },
+    "158": {
+      "type": "perp",
+      "index": 158,
+      "token_key": "@158",
+      "name": "ALGO"
+    },
+    "HYPE": {
+      "type": "perp",
+      "index": 159,
+      "token_key": "@159",
+      "name": "HYPE"
+    },
+    "@159": {
+      "type": "perp",
+      "index": 159,
+      "token_key": "@159",
+      "name": "HYPE"
+    },
+    "159": {
+      "type": "perp",
+      "index": 159,
+      "token_key": "@159",
+      "name": "HYPE"
+    },
+    "ME": {
+      "type": "perp",
+      "index": 160,
+      "token_key": "@160",
+      "name": "ME"
+    },
+    "@160": {
+      "type": "perp",
+      "index": 160,
+      "token_key": "@160",
+      "name": "ME"
+    },
+    "160": {
+      "type": "perp",
+      "index": 160,
+      "token_key": "@160",
+      "name": "ME"
+    },
+    "MOVE": {
+      "type": "perp",
+      "index": 161,
+      "token_key": "@161",
+      "name": "MOVE"
+    },
+    "@161": {
+      "type": "perp",
+      "index": 161,
+      "token_key": "@161",
+      "name": "MOVE"
+    },
+    "161": {
+      "type": "perp",
+      "index": 161,
+      "token_key": "@161",
+      "name": "MOVE"
+    },
+    "VIRTUAL": {
+      "type": "perp",
+      "index": 162,
+      "token_key": "@162",
+      "name": "VIRTUAL"
+    },
+    "@162": {
+      "type": "perp",
+      "index": 162,
+      "token_key": "@162",
+      "name": "VIRTUAL"
+    },
+    "162": {
+      "type": "perp",
+      "index": 162,
+      "token_key": "@162",
+      "name": "VIRTUAL"
+    },
+    "PENGU": {
+      "type": "perp",
+      "index": 163,
+      "token_key": "@163",
+      "name": "PENGU"
+    },
+    "@163": {
+      "type": "perp",
+      "index": 163,
+      "token_key": "@163",
+      "name": "PENGU"
+    },
+    "163": {
+      "type": "perp",
+      "index": 163,
+      "token_key": "@163",
+      "name": "PENGU"
+    },
+    "USUAL": {
+      "type": "perp",
+      "index": 164,
+      "token_key": "@164",
+      "name": "USUAL"
+    },
+    "@164": {
+      "type": "perp",
+      "index": 164,
+      "token_key": "@164",
+      "name": "USUAL"
+    },
+    "164": {
+      "type": "perp",
+      "index": 164,
+      "token_key": "@164",
+      "name": "USUAL"
+    },
+    "FARTCOIN": {
+      "type": "perp",
+      "index": 165,
+      "token_key": "@165",
+      "name": "FARTCOIN"
+    },
+    "@165": {
+      "type": "perp",
+      "index": 165,
+      "token_key": "@165",
+      "name": "FARTCOIN"
+    },
+    "165": {
+      "type": "perp",
+      "index": 165,
+      "token_key": "@165",
+      "name": "FARTCOIN"
+    },
+    "AI16Z": {
+      "type": "perp",
+      "index": 166,
+      "token_key": "@166",
+      "name": "AI16Z"
+    },
+    "@166": {
+      "type": "perp",
+      "index": 166,
+      "token_key": "@166",
+      "name": "AI16Z"
+    },
+    "166": {
+      "type": "perp",
+      "index": 166,
+      "token_key": "@166",
+      "name": "AI16Z"
+    },
+    "AIXBT": {
+      "type": "perp",
+      "index": 167,
+      "token_key": "@167",
+      "name": "AIXBT"
+    },
+    "@167": {
+      "type": "perp",
+      "index": 167,
+      "token_key": "@167",
+      "name": "AIXBT"
+    },
+    "167": {
+      "type": "perp",
+      "index": 167,
+      "token_key": "@167",
+      "name": "AIXBT"
+    },
+    "ZEREBRO": {
+      "type": "perp",
+      "index": 168,
+      "token_key": "@168",
+      "name": "ZEREBRO"
+    },
+    "@168": {
+      "type": "perp",
+      "index": 168,
+      "token_key": "@168",
+      "name": "ZEREBRO"
+    },
+    "168": {
+      "type": "perp",
+      "index": 168,
+      "token_key": "@168",
+      "name": "ZEREBRO"
+    },
+    "BIO": {
+      "type": "perp",
+      "index": 169,
+      "token_key": "@169",
+      "name": "BIO"
+    },
+    "@169": {
+      "type": "perp",
+      "index": 169,
+      "token_key": "@169",
+      "name": "BIO"
+    },
+    "169": {
+      "type": "perp",
+      "index": 169,
+      "token_key": "@169",
+      "name": "BIO"
+    },
+    "GRIFFAIN": {
+      "type": "perp",
+      "index": 170,
+      "token_key": "@170",
+      "name": "GRIFFAIN"
+    },
+    "@170": {
+      "type": "perp",
+      "index": 170,
+      "token_key": "@170",
+      "name": "GRIFFAIN"
+    },
+    "170": {
+      "type": "perp",
+      "index": 170,
+      "token_key": "@170",
+      "name": "GRIFFAIN"
+    },
+    "SPX": {
+      "type": "perp",
+      "index": 171,
+      "token_key": "@171",
+      "name": "SPX"
+    },
+    "@171": {
+      "type": "perp",
+      "index": 171,
+      "token_key": "@171",
+      "name": "SPX"
+    },
+    "171": {
+      "type": "perp",
+      "index": 171,
+      "token_key": "@171",
+      "name": "SPX"
+    },
+    "S": {
+      "type": "perp",
+      "index": 172,
+      "token_key": "@172",
+      "name": "S"
+    },
+    "@172": {
+      "type": "perp",
+      "index": 172,
+      "token_key": "@172",
+      "name": "S"
+    },
+    "172": {
+      "type": "perp",
+      "index": 172,
+      "token_key": "@172",
+      "name": "S"
+    },
+    "MORPHO": {
+      "type": "perp",
+      "index": 173,
+      "token_key": "@173",
+      "name": "MORPHO"
+    },
+    "@173": {
+      "type": "perp",
+      "index": 173,
+      "token_key": "@173",
+      "name": "MORPHO"
+    },
+    "173": {
+      "type": "perp",
+      "index": 173,
+      "token_key": "@173",
+      "name": "MORPHO"
+    },
+    "TRUMP": {
+      "type": "perp",
+      "index": 174,
+      "token_key": "@174",
+      "name": "TRUMP"
+    },
+    "@174": {
+      "type": "perp",
+      "index": 174,
+      "token_key": "@174",
+      "name": "TRUMP"
+    },
+    "174": {
+      "type": "perp",
+      "index": 174,
+      "token_key": "@174",
+      "name": "TRUMP"
+    },
+    "MELANIA": {
+      "type": "perp",
+      "index": 175,
+      "token_key": "@175",
+      "name": "MELANIA"
+    },
+    "@175": {
+      "type": "perp",
+      "index": 175,
+      "token_key": "@175",
+      "name": "MELANIA"
+    },
+    "175": {
+      "type": "perp",
+      "index": 175,
+      "token_key": "@175",
+      "name": "MELANIA"
+    },
+    "ANIME": {
+      "type": "perp",
+      "index": 176,
+      "token_key": "@176",
+      "name": "ANIME"
+    },
+    "@176": {
+      "type": "perp",
+      "index": 176,
+      "token_key": "@176",
+      "name": "ANIME"
+    },
+    "176": {
+      "type": "perp",
+      "index": 176,
+      "token_key": "@176",
+      "name": "ANIME"
+    },
+    "VINE": {
+      "type": "perp",
+      "index": 177,
+      "token_key": "@177",
+      "name": "VINE"
+    },
+    "@177": {
+      "type": "perp",
+      "index": 177,
+      "token_key": "@177",
+      "name": "VINE"
+    },
+    "177": {
+      "type": "perp",
+      "index": 177,
+      "token_key": "@177",
+      "name": "VINE"
+    },
+    "VVV": {
+      "type": "perp",
+      "index": 178,
+      "token_key": "@178",
+      "name": "VVV"
+    },
+    "@178": {
+      "type": "perp",
+      "index": 178,
+      "token_key": "@178",
+      "name": "VVV"
+    },
+    "178": {
+      "type": "perp",
+      "index": 178,
+      "token_key": "@178",
+      "name": "VVV"
+    },
+    "JELLY": {
+      "type": "perp",
+      "index": 179,
+      "token_key": "@179",
+      "name": "JELLY"
+    },
+    "@179": {
+      "type": "perp",
+      "index": 179,
+      "token_key": "@179",
+      "name": "JELLY"
+    },
+    "179": {
+      "type": "perp",
+      "index": 179,
+      "token_key": "@179",
+      "name": "JELLY"
+    },
+    "BERA": {
+      "type": "perp",
+      "index": 180,
+      "token_key": "@180",
+      "name": "BERA"
+    },
+    "@180": {
+      "type": "perp",
+      "index": 180,
+      "token_key": "@180",
+      "name": "BERA"
+    },
+    "180": {
+      "type": "perp",
+      "index": 180,
+      "token_key": "@180",
+      "name": "BERA"
+    },
+    "TST": {
+      "type": "perp",
+      "index": 181,
+      "token_key": "@181",
+      "name": "TST"
+    },
+    "@181": {
+      "type": "perp",
+      "index": 181,
+      "token_key": "@181",
+      "name": "TST"
+    },
+    "181": {
+      "type": "perp",
+      "index": 181,
+      "token_key": "@181",
+      "name": "TST"
+    },
+    "LAYER": {
+      "type": "perp",
+      "index": 182,
+      "token_key": "@182",
+      "name": "LAYER"
+    },
+    "@182": {
+      "type": "perp",
+      "index": 182,
+      "token_key": "@182",
+      "name": "LAYER"
+    },
+    "182": {
+      "type": "perp",
+      "index": 182,
+      "token_key": "@182",
+      "name": "LAYER"
+    },
+    "IP": {
+      "type": "perp",
+      "index": 183,
+      "token_key": "@183",
+      "name": "IP"
+    },
+    "@183": {
+      "type": "perp",
+      "index": 183,
+      "token_key": "@183",
+      "name": "IP"
+    },
+    "183": {
+      "type": "perp",
+      "index": 183,
+      "token_key": "@183",
+      "name": "IP"
+    },
+    "OM": {
+      "type": "perp",
+      "index": 184,
+      "token_key": "@184",
+      "name": "OM"
+    },
+    "@184": {
+      "type": "perp",
+      "index": 184,
+      "token_key": "@184",
+      "name": "OM"
+    },
+    "184": {
+      "type": "perp",
+      "index": 184,
+      "token_key": "@184",
+      "name": "OM"
+    },
+    "KAITO": {
+      "type": "perp",
+      "index": 185,
+      "token_key": "@185",
+      "name": "KAITO"
+    },
+    "@185": {
+      "type": "perp",
+      "index": 185,
+      "token_key": "@185",
+      "name": "KAITO"
+    },
+    "185": {
+      "type": "perp",
+      "index": 185,
+      "token_key": "@185",
+      "name": "KAITO"
+    },
+    "NIL": {
+      "type": "perp",
+      "index": 186,
+      "token_key": "@186",
+      "name": "NIL"
+    },
+    "@186": {
+      "type": "perp",
+      "index": 186,
+      "token_key": "@186",
+      "name": "NIL"
+    },
+    "186": {
+      "type": "perp",
+      "index": 186,
+      "token_key": "@186",
+      "name": "NIL"
+    },
+    "PAXG": {
+      "type": "perp",
+      "index": 187,
+      "token_key": "@187",
+      "name": "PAXG"
+    },
+    "@187": {
+      "type": "perp",
+      "index": 187,
+      "token_key": "@187",
+      "name": "PAXG"
+    },
+    "187": {
+      "type": "perp",
+      "index": 187,
+      "token_key": "@187",
+      "name": "PAXG"
+    },
+    "PROMPT": {
+      "type": "perp",
+      "index": 188,
+      "token_key": "@188",
+      "name": "PROMPT"
+    },
+    "@188": {
+      "type": "perp",
+      "index": 188,
+      "token_key": "@188",
+      "name": "PROMPT"
+    },
+    "188": {
+      "type": "perp",
+      "index": 188,
+      "token_key": "@188",
+      "name": "PROMPT"
+    },
+    "BABY": {
+      "type": "perp",
+      "index": 189,
+      "token_key": "@189",
+      "name": "BABY"
+    },
+    "@189": {
+      "type": "perp",
+      "index": 189,
+      "token_key": "@189",
+      "name": "BABY"
+    },
+    "189": {
+      "type": "perp",
+      "index": 189,
+      "token_key": "@189",
+      "name": "BABY"
+    },
+    "WCT": {
+      "type": "perp",
+      "index": 190,
+      "token_key": "@190",
+      "name": "WCT"
+    },
+    "@190": {
+      "type": "perp",
+      "index": 190,
+      "token_key": "@190",
+      "name": "WCT"
+    },
+    "190": {
+      "type": "perp",
+      "index": 190,
+      "token_key": "@190",
+      "name": "WCT"
+    },
+    "HYPER": {
+      "type": "perp",
+      "index": 191,
+      "token_key": "@191",
+      "name": "HYPER"
+    },
+    "@191": {
+      "type": "perp",
+      "index": 191,
+      "token_key": "@191",
+      "name": "HYPER"
+    },
+    "191": {
+      "type": "perp",
+      "index": 191,
+      "token_key": "@191",
+      "name": "HYPER"
+    },
+    "ZORA": {
+      "type": "perp",
+      "index": 192,
+      "token_key": "@192",
+      "name": "ZORA"
+    },
+    "@192": {
+      "type": "perp",
+      "index": 192,
+      "token_key": "@192",
+      "name": "ZORA"
+    },
+    "192": {
+      "type": "perp",
+      "index": 192,
+      "token_key": "@192",
+      "name": "ZORA"
+    },
+    "INIT": {
+      "type": "perp",
+      "index": 193,
+      "token_key": "@193",
+      "name": "INIT"
+    },
+    "@193": {
+      "type": "perp",
+      "index": 193,
+      "token_key": "@193",
+      "name": "INIT"
+    },
+    "193": {
+      "type": "perp",
+      "index": 193,
+      "token_key": "@193",
+      "name": "INIT"
+    },
+    "DOOD": {
+      "type": "perp",
+      "index": 194,
+      "token_key": "@194",
+      "name": "DOOD"
+    },
+    "@194": {
+      "type": "perp",
+      "index": 194,
+      "token_key": "@194",
+      "name": "DOOD"
+    },
+    "194": {
+      "type": "perp",
+      "index": 194,
+      "token_key": "@194",
+      "name": "DOOD"
+    },
+    "LAUNCHCOIN": {
+      "type": "perp",
+      "index": 195,
+      "token_key": "@195",
+      "name": "LAUNCHCOIN"
+    },
+    "@195": {
+      "type": "perp",
+      "index": 195,
+      "token_key": "@195",
+      "name": "LAUNCHCOIN"
+    },
+    "195": {
+      "type": "perp",
+      "index": 195,
+      "token_key": "@195",
+      "name": "LAUNCHCOIN"
+    },
+    "NXPC": {
+      "type": "perp",
+      "index": 196,
+      "token_key": "@196",
+      "name": "NXPC"
+    },
+    "@196": {
+      "type": "perp",
+      "index": 196,
+      "token_key": "@196",
+      "name": "NXPC"
+    },
+    "196": {
+      "type": "perp",
+      "index": 196,
+      "token_key": "@196",
+      "name": "NXPC"
+    },
+    "SOPH": {
+      "type": "perp",
+      "index": 197,
+      "token_key": "@197",
+      "name": "SOPH"
+    },
+    "@197": {
+      "type": "perp",
+      "index": 197,
+      "token_key": "@197",
+      "name": "SOPH"
+    },
+    "197": {
+      "type": "perp",
+      "index": 197,
+      "token_key": "@197",
+      "name": "SOPH"
+    },
+    "RESOLV": {
+      "type": "perp",
+      "index": 198,
+      "token_key": "@198",
+      "name": "RESOLV"
+    },
+    "@198": {
+      "type": "perp",
+      "index": 198,
+      "token_key": "@198",
+      "name": "RESOLV"
+    },
+    "198": {
+      "type": "perp",
+      "index": 198,
+      "token_key": "@198",
+      "name": "RESOLV"
+    },
+    "SYRUP": {
+      "type": "perp",
+      "index": 199,
+      "token_key": "@199",
+      "name": "SYRUP"
+    },
+    "@199": {
+      "type": "perp",
+      "index": 199,
+      "token_key": "@199",
+      "name": "SYRUP"
+    },
+    "199": {
+      "type": "perp",
+      "index": 199,
+      "token_key": "@199",
+      "name": "SYRUP"
+    },
+    "PUMP": {
+      "type": "perp",
+      "index": 200,
+      "token_key": "@200",
+      "name": "PUMP"
+    },
+    "@200": {
+      "type": "perp",
+      "index": 200,
+      "token_key": "@200",
+      "name": "PUMP"
+    },
+    "200": {
+      "type": "perp",
+      "index": 200,
+      "token_key": "@200",
+      "name": "PUMP"
+    },
+    "PROVE": {
+      "type": "perp",
+      "index": 201,
+      "token_key": "@201",
+      "name": "PROVE"
+    },
+    "@201": {
+      "type": "perp",
+      "index": 201,
+      "token_key": "@201",
+      "name": "PROVE"
+    },
+    "201": {
+      "type": "perp",
+      "index": 201,
+      "token_key": "@201",
+      "name": "PROVE"
+    },
+    "PURR/USDC": {
+      "type": "spot",
+      "index": 0,
+      "token_key": "@10000",
+      "name": "PURR/USDC"
+    },
+    "@10000": {
+      "type": "spot",
+      "index": 0,
+      "token_key": "@10000",
+      "name": "PURR/USDC"
+    }
+  }
+}

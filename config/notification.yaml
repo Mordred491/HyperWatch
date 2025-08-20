@@ -1,0 +1,29 @@
+discord:
+  enabled: true
+  webhook_url: ""
+
+telegram:
+  enabled: true
+  token: ""
+  chat_id: 
+
+email:
+  enabled: true
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  username: ""
+  password: ""
+  from_addr: ""
+  to_addrs:
+  - ""
+
+
+
+
+webhook:
+  enabled: true
+  url: ""
+
+
+
+
