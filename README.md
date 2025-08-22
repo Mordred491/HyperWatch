@@ -4,14 +4,14 @@
 [![PyPI version](https://badge.fury.io/py/hyperwatch.svg)](https://badge.fury.io/py/hyperwatch)
 [![CI/CD](https://github.com/Mordred491/HyperWatch/actions/workflows/python-package.yml/badge.svg)](https://github.com/Mordred491/HyperWatch/actions)
 
-HyperWatch is a **real-time monitoring and alert system** for Hyperliquid wallets and cryptocurrency market data. Built for **traders and builders**, it tracks wallet events, trades, and vault activity, providing **intelligent multi-channel notifications** with automatic WebSocket health monitoring and advanced event processing.
+HyperWatch is a real-time monitoring and alert system for Hyperliquid wallets and cryptocurrency market data. Built for raders and builders, it tracks wallet events, trades, and vault activity, providing intelligent multi-channel notifications with automatic WebSocket health monitoring and advanced event processing.
 
 ---
 
 ## Features
 
 ### Real-Time Market Intelligence
-- 📈 Real-time wallet and market event monitoring across Hyperliquid
+- 📈 Single-wallet monitoring for real-time wallet and market events across Hyperliquid
 - 🏷️ Smart position classification (WHALE, LARGE, MEDIUM, NOTABLE) based on USD value
 - 🪙 Multi-asset tracking with automatic coin mapping and price validation
 - 🔗 Advanced event aggregation - groups related transactions into actionable summaries
@@ -26,9 +26,11 @@ HyperWatch is a **real-time monitoring and alert system** for Hyperliquid wallet
 
 ### Developer & Trader Tools
 - 💚 WebSocket health checks with automatic reconnects
-- 🛠 Modular design for developer-friendly customization
+- 🛠 Modular design for developer-friendly customization — components are reusable without rebuilding core
 - 🔍 Professional-grade filtering to focus on market-moving activity
-- ✅ Complete blockchain verification with transaction hashes
+- ⚡ Modular architecture allows developers to extend HyperWatch to monitor multiple wallets
+- 💡 Note: HyperWatch currently tracks a single wallet, but it’s designed to be easily upgraded
+
 
 ### Sample Alert Output
 
