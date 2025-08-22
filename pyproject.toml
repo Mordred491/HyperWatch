@@ -10,7 +10,7 @@ readme = "README.md"
 authors = [
   { name = "Daniel Mordred", email = "danielmordred491@gmail.com" }
 ]
-license = { text = "MIT" }
+license = "MIT"
 requires-python = ">=3.8"
 dependencies = [
   "requests>=2.26.0",
@@ -20,16 +20,18 @@ dependencies = [
   "aiohttp>=3.8.0",
 ]
 
+[tool.setuptools]
+packages = ["hyperwatch"]
+
 [project.optional-dependencies]
 dev = [
   "pytest>=6.2.5",
   "pytest-asyncio>=0.16.0",
   "pre-commit>=2.15.0",
 ]
-dashboard = [
-  "streamlit>=1.20",
-]
+
+
 
 [project.urls]
-Homepage = ""
-Issues = ""
+Homepage = "https://github.com/Mordred491/HyperWatch"
+Issues = "https://github.com/Mordred491/HyperWatch/issues"
