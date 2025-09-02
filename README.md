@@ -4,7 +4,7 @@
 [![PyPI version](https://badge.fury.io/py/hyperwatch.svg)](https://badge.fury.io/py/hyperwatch)
 [![CI/CD](https://github.com/Mordred491/HyperWatch/actions/workflows/python-package.yml/badge.svg)](https://github.com/Mordred491/HyperWatch/actions)
 
-HyperWatch is a real-time monitoring and alert system for Hyperliquid wallets and cryptocurrency market data. Built for raders and builders, it tracks wallet events, trades, and vault activity, providing intelligent multi-channel notifications with automatic WebSocket health monitoring and advanced event processing.
+HyperWatch is a real-time monitoring and alert system for Hyperliquid wallets and cryptocurrency market data. Built for Traders and builders, it tracks wallet events, trades, and vault activity, providing intelligent multi-channel notifications with automatic WebSocket health monitoring and advanced event processing.
 
 ---
 
