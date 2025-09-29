@@ -311,4 +311,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 **Built for traders and builders in the DeFi ecosystem**
 
+
+**Demo: https://www.youtube.com/watch?v=3zpcXwZAUlE
+
 *HyperWatch transforms raw blockchain data into actionable trading intelligence*
